@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm
+END
+TMsgCommShutDownRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownRequest.h
+END
+SMsgCommRegisterRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommRegisterRequest.cpp
+END
+TMsgCommTracing.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommTracing.h
+END
+SMsgCommStatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommStatusReply.cpp
+END
+TMsgCommStatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommStatusReply.cpp
+END
+TMsgCommShutDownCnfrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownCnfrm.cpp
+END
+TMsgCommProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommProtocol.cpp
+END
+MMsgCommMRTG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommMRTG.cpp
+END
+TMsgCommPing.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommPing.h
+END
+TMsgCommRehupOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommRehupOptions.h
+END
+MMsgCommIsUserPresent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommIsUserPresent.cpp
+END
+MMsgCommNoOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommNoOp.cpp
+END
+MMsgCommGetNetStat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommGetNetStat.cpp
+END
+TMsgCommShutDownCnfrmReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownCnfrmReply.cpp
+END
+CommMsgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/CommMsgs.cpp
+END
+TMsgCommDebugLevel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommDebugLevel.cpp
+END
+SMsgCommDumpStatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommDumpStatistics.cpp
+END
+MMsgCommGetNumUsers.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommGetNumUsers.h
+END
+TMsgCommNoOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommNoOp.h
+END
+TMsgCommQueryOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommQueryOptions.cpp
+END
+TMsgCommShutDownRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownRequest.cpp
+END
+TMsgCommTracing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommTracing.cpp
+END
+TMsgCommTimeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommTimeout.h
+END
+MMsgCommPing.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommPing.h
+END
+TMsgCommPing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommPing.cpp
+END
+TMsgCommRehupOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommRehupOptions.cpp
+END
+SMsgCommRegisterRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommRegisterRequest.h
+END
+MMsgTypesComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgTypesComm.h
+END
+SMsgCommStatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommStatusReply.h
+END
+TMsgCommStatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommStatusReply.h
+END
+TMsgCommProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommProtocol.h
+END
+TMsgCommShutDownCnfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownCnfrm.h
+END
+MMsgCommMRTG.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommMRTG.h
+END
+SMsgTypesComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgTypesComm.h
+END
+TMsgTypesComm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgTypesComm.h
+END
+MMsgCommNoOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommNoOp.h
+END
+MMsgCommIsUserPresent.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommIsUserPresent.h
+END
+MMsgCommGetNumUsers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommGetNumUsers.cpp
+END
+TMsgCommNoOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommNoOp.cpp
+END
+MMsgCommGetNetStat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommGetNetStat.h
+END
+TMsgCommShutDownCnfrmReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommShutDownCnfrmReply.h
+END
+TMsgCommDebugLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommDebugLevel.h
+END
+SMsgCommDumpStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/SMsgCommDumpStatistics.h
+END
+TMsgCommQueryOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommQueryOptions.h
+END
+MMsgCommPing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/MMsgCommPing.cpp
+END
+TMsgCommTimeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Comm/TMsgCommTimeout.cpp
+END

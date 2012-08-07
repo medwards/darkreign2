@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/won/msg/User
+END
+UserFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/UserFlags.h
+END
+USER_SEARCH_SERVER_STRUCTURES.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/USER_SEARCH_SERVER_STRUCTURES.h
+END
+SmallMessageTypesUserSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SmallMessageTypesUserSearch.h
+END
+USER_SEARCH_SERVER_STRUCTURES.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/USER_SEARCH_SERVER_STRUCTURES.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/WISEInstaller
+END
+Readme.doc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/WISEInstaller/Readme.doc
+END
+sample.EXE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/WISEInstaller/sample.EXE
+END
+sample.WSM
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/WISEInstaller/sample.WSM
+END
+sample.wse
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/WISEInstaller/sample.wse
+END

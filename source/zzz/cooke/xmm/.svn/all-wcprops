@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/zzz/cooke/xmm
+END
+xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/zzz/cooke/xmm/xmm.cpp
+END
+ColorValue_xmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/zzz/cooke/xmm/ColorValue_xmm.h
+END
+vid_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/zzz/cooke/xmm/vid_xmm.cpp
+END
+vertex_xmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/zzz/cooke/xmm/vertex_xmm.h
+END
+XmmUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/zzz/cooke/xmm/XmmUtil.h
+END
+camverts_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/zzz/cooke/xmm/camverts_xmm.cpp
+END
+xmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/zzz/cooke/xmm/xmm.h
+END
+camera_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/xmm/camera_xmm.cpp
+END
+material_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/zzz/cooke/xmm/material_xmm.cpp
+END
+vector_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/xmm/vector_xmm.cpp
+END
+matrix_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/xmm/matrix_xmm.cpp
+END
+light_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/zzz/cooke/xmm/light_xmm.cpp
+END
+vector_xmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/zzz/cooke/xmm/vector_xmm.h
+END
+Matrix_xmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/zzz/cooke/xmm/Matrix_xmm.h
+END
+XmmTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/zzz/cooke/xmm/XmmTypes.h
+END
+ColorValue_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/zzz/cooke/xmm/ColorValue_xmm.cpp
+END
+lightvertsmodel_xmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/zzz/cooke/xmm/lightvertsmodel_xmm.cpp
+END

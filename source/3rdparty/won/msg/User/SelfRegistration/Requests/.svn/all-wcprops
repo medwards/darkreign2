@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests
+END
+SMsgUsrReconnectSelfDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrReconnectSelfDataSource.h
+END
+SMsgUsrRemoveDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrRemoveDataSource.h
+END
+SMsgUsrRegisterDataSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrRegisterDataSource.cpp
+END
+SMsgUsrRegisterDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrRegisterDataSource.h
+END
+SMsgUsrReconnectSelfDataSource.cp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrReconnectSelfDataSource.cp
+END
+SMsgUsrRemoveDataSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/SelfRegistration/Requests/SMsgUsrRemoveDataSource.cpp
+END

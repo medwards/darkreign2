@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/3rdparty/won/msg
+END
+TServiceTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/TServiceTypes.h
+END
+ServerStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/msg/ServerStatus.h
+END
+MsgLengthFieldSizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/MsgLengthFieldSizes.h
+END
+BadMsgException.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/BadMsgException.h
+END
+HeaderTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/msg/HeaderTypes.h
+END
+LServiceTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/LServiceTypes.h
+END
+MServiceTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/MServiceTypes.h
+END
+TMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/msg/TMessage.cpp
+END
+msg.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/3rdparty/won/msg/msg.dsp
+END
+BadMsgException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/BadMsgException.cpp
+END
+SServiceTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/SServiceTypes.h
+END
+TMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/won/msg/TMessage.h
+END

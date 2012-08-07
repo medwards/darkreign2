@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/apps/wonbot
+END
+woniface.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/apps/wonbot/woniface.h
+END
+wonbot.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/apps/wonbot/wonbot.cfg
+END
+wonbot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/apps/wonbot/wonbot.cpp
+END
+woniface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/apps/wonbot/woniface.cpp
+END
+wonbot.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/apps/wonbot/wonbot.dsp
+END

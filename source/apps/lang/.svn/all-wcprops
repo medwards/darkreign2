@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/source/apps/lang
+END
+lang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/apps/lang/lang.cpp
+END
+lang.rc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/apps/lang/lang.rc
+END
+lang.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/apps/lang/lang.dsp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/apps/lang/resource.h
+END
+afxres.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/apps/lang/afxres.h
+END

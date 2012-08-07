@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling
+END
+SMsgUsrGetPolledUserList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserList.cpp
+END
+SMsgUsrGetPolledUserListReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserListReply.h
+END
+SMsgUsrGetPolledUserList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserList.h
+END
+SMsgUsrGetPolledUserListReplyEx.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserListReplyEx.c
+END
+SMsgUsrGetPolledUserListReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserListReply.cpp
+END
+SMsgUsrGetPolledUserListReplyEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Polling/SMsgUsrGetPolledUserListReplyEx.h
+END

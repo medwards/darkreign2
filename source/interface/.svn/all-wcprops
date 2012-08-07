@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/source/interface
+END
+input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/input.cpp
+END
+icroot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icroot.cpp
+END
+icedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icedit.cpp
+END
+interface.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/interface.dsp
+END
+iclistbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/iclistbox.h
+END
+icmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icmesh.cpp
+END
+iface_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/iface_util.h
+END
+icgauge.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/icgauge.h
+END
+colorbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/interface/colorbutton.cpp
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/interface/font.h
+END
+iconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/iconsole.h
+END
+icmenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/icmenu.h
+END
+iconwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/iconwindow.h
+END
+ictetris.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/ictetris.cpp
+END
+icbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icbutton.cpp
+END
+console_viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/console_viewer.h
+END
+iface_messagebox.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/iface_messagebox.h
+END
+icsoundconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/interface/icsoundconfig.cpp
+END
+coloreditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/coloreditor.h
+END
+iclistslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/iclistslider.cpp
+END
+icsystembutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/icsystembutton.cpp
+END
+icontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icontrol.h
+END
+messagebox_event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/interface/messagebox_event.cpp
+END
+iface_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/iface_types.h
+END
+ictipwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/interface/ictipwindow.cpp
+END
+icgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/icgrid.h
+END
+icstatic.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icstatic.h
+END
+fontsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/fontsys.h
+END
+iconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/iconsole.cpp
+END
+iface.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/interface/iface.h
+END
+console_edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/console_edit.h
+END
+icmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/icmesh.h
+END
+colorbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/colorbutton.h
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/cursor.h
+END
+console_viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/console_viewer.cpp
+END
+iface_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/iface_sound.h
+END
+icmonoview.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icmonoview.h
+END
+coloreditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/interface/coloreditor.cpp
+END
+icontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icontrol.cpp
+END
+iface_controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/iface_controls.cpp
+END
+ictetris.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/ictetris.h
+END
+ictimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/ictimer.cpp
+END
+icgridwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/icgridwindow.h
+END
+icslider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icslider.cpp
+END
+icsoundconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/interface/icsoundconfig.h
+END
+iclistslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/iclistslider.h
+END
+icsystembutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/icsystembutton.h
+END
+icgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icgrid.cpp
+END
+icticker.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icticker.h
+END
+icstatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icstatic.cpp
+END
+messagebox_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/messagebox_event.h
+END
+ickeyview.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/ickeyview.h
+END
+ictabgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/ictabgroup.h
+END
+fontsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/fontsys.cpp
+END
+ictipwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/ictipwindow.h
+END
+iface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/iface.cpp
+END
+console_edit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/console_edit.cpp
+END
+icdroplist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/icdroplist.cpp
+END
+ifvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/interface/ifvar.h
+END
+cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/cursor.cpp
+END
+iface_sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/interface/iface_sound.cpp
+END
+icmonoview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/icmonoview.cpp
+END
+icwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icwindow.h
+END
+iftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/iftypes.h
+END
+icgridwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/icgridwindow.cpp
+END
+keybind.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/keybind.h
+END
+icticker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icticker.cpp
+END
+iface_controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/interface/iface_controls.h
+END
+ickeyview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/ickeyview.cpp
+END
+ictabgroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/ictabgroup.cpp
+END
+iclistbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/interface/iclistbox.cpp
+END
+ictimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/ictimer.h
+END
+icslider.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icslider.h
+END
+iface_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/iface_util.cpp
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/interface/input.h
+END
+icgauge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/icgauge.cpp
+END
+icroot.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/icroot.h
+END
+icedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/icedit.h
+END
+font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/interface/font.cpp
+END
+ifvar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/ifvar.cpp
+END
+stdinc_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/interface/stdinc_interface.h
+END
+iface_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/iface_priv.h
+END
+iconwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/interface/iconwindow.cpp
+END
+icmenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icmenu.cpp
+END
+icdroplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icdroplist.h
+END
+icwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/interface/icwindow.cpp
+END
+iface_messagebox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/interface/iface_messagebox.cpp
+END
+keybind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/interface/keybind.cpp
+END
+icclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/interface/icclass.h
+END
+icbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/interface/icbutton.h
+END

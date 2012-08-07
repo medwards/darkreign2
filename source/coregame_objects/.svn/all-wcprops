@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame_objects
+END
+gameobjctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/gameobjctrl.h
+END
+unitobjctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/unitobjctrl.cpp
+END
+coregame_objects.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_objects/coregame_objects.dsp
+END
+bookmarkobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/bookmarkobj.cpp
+END
+unitevacuate.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/unitevacuate.h
+END
+mapobjctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/mapobjctrl.h
+END
+offmapobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/offmapobj.cpp
+END
+gameobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/gameobj.cpp
+END
+deliveryprojectileobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_objects/deliveryprojectileobj.h
+END
+tagobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_objects/tagobj.cpp
+END
+trapobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_objects/trapobj.h
+END
+mapobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_objects/mapobj.cpp
+END
+mapobjlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/mapobjlist.h
+END
+resourceobjiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/resourceobjiter.h
+END
+trailobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_objects/trailobj.h
+END
+unitobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_objects/unitobj.h
+END
+propobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_objects/propobj.h
+END
+explosionobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/explosionobj.h
+END
+tagobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/tagobjdec.h
+END
+squadobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/squadobjdec.h
+END
+gameobjctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/gameobjctrl.cpp
+END
+instantweaponobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_objects/instantweaponobj.h
+END
+transportobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/transportobj.h
+END
+mapobjctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/mapobjctrl.cpp
+END
+unitevacuate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/unitevacuate.cpp
+END
+unitobjiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/unitobjiter.cpp
+END
+deliveryprojectileobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_objects/deliveryprojectileobj.cpp
+END
+projectileobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/projectileobj.h
+END
+trapobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/trapobj.cpp
+END
+bookmarkobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/bookmarkobj.h
+END
+parasiteobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/parasiteobj.h
+END
+offmapbombobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/offmapbombobj.h
+END
+gameobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_objects/gameobj.h
+END
+offmapteamobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/offmapteamobj.cpp
+END
+explosionobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/explosionobj.cpp
+END
+propobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/propobj.cpp
+END
+tagobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_objects/tagobj.h
+END
+markerobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/markerobj.cpp
+END
+mapobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_objects/mapobj.h
+END
+regionobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/regionobj.cpp
+END
+resourceobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/resourceobj.cpp
+END
+offmapobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/offmapobjdec.h
+END
+unitobjinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/unitobjinfo.cpp
+END
+transportobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/transportobj.cpp
+END
+mapobjouchlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/mapobjouchlist.h
+END
+offmapstrikeobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/offmapstrikeobj.h
+END
+wallobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/wallobj.cpp
+END
+projectileobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/projectileobj.cpp
+END
+objdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_objects/objdec.h
+END
+mapobjiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/mapobjiter.cpp
+END
+regionobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/regionobjdec.h
+END
+squadobjctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/squadobjctrl.h
+END
+unitobjfinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/unitobjfinder.cpp
+END
+unitobjiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/unitobjiter.h
+END
+parasiteobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/parasiteobj.cpp
+END
+resourceobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/resourceobjdec.h
+END
+offmapbombobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/offmapbombobj.cpp
+END
+spyobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_objects/spyobj.cpp
+END
+squadobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/squadobj.cpp
+END
+wallobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/wallobjdec.h
+END
+offmapspawnobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_objects/offmapspawnobj.cpp
+END
+restoreobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/restoreobj.cpp
+END
+offmapteamobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/offmapteamobj.h
+END
+bookmarkobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/bookmarkobjdec.h
+END
+markerobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/markerobj.h
+END
+regionobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/regionobj.h
+END
+offmapstrikeobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_objects/offmapstrikeobj.cpp
+END
+gameobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/gameobjdec.h
+END
+resourceobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/resourceobj.h
+END
+spyobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/spyobjdec.h
+END
+mapobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/mapobjdec.h
+END
+unitobjinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/unitobjinfo.h
+END
+explosionobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_objects/explosionobjdec.h
+END
+squadobjctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/squadobjctrl.cpp
+END
+wallobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_objects/wallobj.h
+END
+restoreobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/restoreobjdec.h
+END
+mapobjiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/mapobjiter.h
+END
+unitobjctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/unitobjctrl.h
+END
+trailobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/trailobj.cpp
+END
+resourceobjiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_objects/resourceobjiter.cpp
+END
+unitobjfinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_objects/unitobjfinder.h
+END
+offmapobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/offmapobj.h
+END
+unitobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_objects/unitobj.cpp
+END
+spyobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_objects/spyobj.h
+END
+unitobjlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/unitobjlist.h
+END
+projectileobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_objects/projectileobjdec.h
+END
+squadobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_objects/squadobj.h
+END
+mapobjstate.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/mapobjstate.h
+END
+offmapspawnobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_objects/offmapspawnobj.h
+END
+restoreobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/restoreobj.h
+END
+trailobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_objects/trailobjdec.h
+END
+unitobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_objects/unitobjdec.h
+END
+markerobjdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_objects/markerobjdec.h
+END

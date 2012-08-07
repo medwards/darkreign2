@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Replies
+END
+SMsgUsrMultipleUserReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Replies/SMsgUsrMultipleUserReply.h
+END
+SMsgUsrGetNumUsersReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Replies/SMsgUsrGetNumUsersReply.cpp
+END
+SMsgUsrGetNumUsersReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Replies/SMsgUsrGetNumUsersReply.h
+END
+SMsgUsrMultipleUserReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Replies/SMsgUsrMultipleUserReply.cpp
+END

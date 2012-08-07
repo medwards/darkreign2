@@ -1,0 +1,725 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir
+END
+TMsgDirPeerSynch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerSynch.h
+END
+SMsgDirG2NameEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2NameEntity.cpp
+END
+SMsgDirG2QueryExtendBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryExtendBase.h
+END
+SMsgDirG2GetEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetEntity.h
+END
+TMsgDirChangeDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirChangeDirectory.cpp
+END
+SMsgDirG2RenewEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2RenewEntity.h
+END
+TMsgDirChangeService.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirChangeService.h
+END
+TMsgDirAddDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirAddDirectory.cpp
+END
+TMsgDirAddService.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirAddService.h
+END
+TMsgDirRemoveService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRemoveService.cpp
+END
+SMsgDirG2UpdateExtendBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2UpdateExtendBase.h
+END
+SMsgDirG2ClearDataObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ClearDataObjects.cpp
+END
+SMsgDirG2KeyedBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2KeyedBase.cpp
+END
+TMsgDirLoadFromSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirLoadFromSource.cpp
+END
+TMsgDirPeerDataBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerDataBase.h
+END
+TMsgDirDumpTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirDumpTree.cpp
+END
+SMsgDirG2SingleEntityReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SingleEntityReply.h
+END
+TMsgDirGetNumDirEntries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirGetNumDirEntries.cpp
+END
+SMsgDirG2QueryFindBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryFindBase.cpp
+END
+TMsgDirServiceBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirServiceBase.cpp
+END
+SMsgDirG2ExplicitSetDOs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ExplicitSetDOs.cpp
+END
+SMsgDirG2SetACLs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SetACLs.h
+END
+SMsgDirG2SetDataObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SetDataObjects.h
+END
+SMsgDirG2GetNumEntities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetNumEntities.cpp
+END
+SMsgDirG2FindDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2FindDirectory.cpp
+END
+SMsgDirG2FindService.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2FindService.h
+END
+SMsgDirG2EntityListBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2EntityListBase.h
+END
+SMsgDirG2ModifyService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyService.cpp
+END
+SMsgDirG2MultiEntityReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2MultiEntityReply.h
+END
+TMsgDirGetDirContents.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirGetDirContents.h
+END
+SMsgDirG2SynchTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SynchTree.h
+END
+SMsgDirG2PeerConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerConnect.h
+END
+TMsgDirDirectoryBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirDirectoryBase.h
+END
+SMsgDirG2RenewEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2RenewEntity.cpp
+END
+SMsgDirG2LoadFromSrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2LoadFromSrc.h
+END
+TMsgDirAddService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirAddService.cpp
+END
+TMsgDirRenewDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRenewDirectory.h
+END
+SMsgDirG2UpdateExtendBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2UpdateExtendBase.cpp
+END
+TMsgDirChangeDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirChangeDirectory.h
+END
+SMsgDirG2RemoveEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2RemoveEntity.cpp
+END
+TMsgDirRemoveDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRemoveDirectory.cpp
+END
+TMsgDirRemoveService.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRemoveService.h
+END
+DirEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirEntity.h
+END
+SMsgDirG2ClearDataObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ClearDataObjects.h
+END
+SMsgDirG2SetDataObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SetDataObjects.cpp
+END
+SMsgDirG2PeerSynch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerSynch.cpp
+END
+SMsgDirG2FindService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2FindService.cpp
+END
+TMsgDirLoadFromSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirLoadFromSource.h
+END
+SMsgDirG2KeyedBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2KeyedBase.h
+END
+SMsgDirG2EntityListBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2EntityListBase.cpp
+END
+SMsgDirG2MultiEntityReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2MultiEntityReply.cpp
+END
+SMsgDirG2StatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2StatusReply.h
+END
+TMsgDirGetNumDirEntries.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirGetNumDirEntries.h
+END
+SMsgDirG2PeerConnect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerConnect.cpp
+END
+TMsgDirDirectoryBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirDirectoryBase.cpp
+END
+SMsgDirG2GetNumEntities.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetNumEntities.h
+END
+SMsgDirG2LoadFromSrc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2LoadFromSrc.cpp
+END
+SMsgDirG2ModifyDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyDirectory.cpp
+END
+TMsgDirRenewDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRenewDirectory.cpp
+END
+SMsgDirG2ModifyService.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyService.h
+END
+TMsgDirRenewService.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRenewService.h
+END
+TMsgDirFindService.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirFindService.h
+END
+SMsgDirG2PeerAttach.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerAttach.cpp
+END
+SMsgTypesDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgTypesDir.h
+END
+SMsgDirG2PeerDataBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerDataBase.cpp
+END
+SMsgDirG2UpdateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2UpdateBase.h
+END
+SMsgDirG2AddDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2AddDirectory.h
+END
+TMsgDirPeerConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerConnect.h
+END
+DirServerSKMasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirServerSKMasks.h
+END
+DirMsgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirMsgs.cpp
+END
+DirEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirEntity.cpp
+END
+SMsgDirG2DumpTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2DumpTree.h
+END
+SMsgDirG2GetDirContents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetDirContents.cpp
+END
+SMsgDirG2RemoveEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2RemoveEntity.h
+END
+TMsgDirRemoveDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRemoveDirectory.h
+END
+SMsgDirG2StatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2StatusReply.cpp
+END
+SMsgDirG2ModifyDataObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyDataObjects.h
+END
+SMsgDirG2QueryGetBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryGetBase.cpp
+END
+SMsgDirG2PeerSynch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerSynch.h
+END
+TMsgDirPeerSynch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerSynch.cpp
+END
+SMsgDirG2QueryExtendBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryExtendBase.cpp
+END
+TMsgDirRenewService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirRenewService.cpp
+END
+TMsgDirFindService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirFindService.cpp
+END
+DirServerEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirServerEntry.h
+END
+SMsgDirG2EntityBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2EntityBase.h
+END
+SMsgDirG2GetEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetEntity.cpp
+END
+TMsgDirStatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirStatusReply.h
+END
+TMsgDirPeerConnect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerConnect.cpp
+END
+SMsgDirG2AddDirectory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2AddDirectory.cpp
+END
+TMsgDirChangeService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirChangeService.cpp
+END
+SMsgDirG2AddService.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2AddService.h
+END
+DirMsgsG2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirMsgsG2.cpp
+END
+TMsgDirSynchDirTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirSynchDirTree.h
+END
+SMsgDirG2ModifyDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyDirectory.h
+END
+TMsgTypesDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgTypesDir.h
+END
+SMsgDirG2NameEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2NameEntity.h
+END
+SMsgDirG2PeerDataBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerDataBase.h
+END
+SMsgDirG2DumpTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2DumpTree.cpp
+END
+SMsgDirG2PeerAttach.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2PeerAttach.h
+END
+TMsgDirPeerDataBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirPeerDataBase.cpp
+END
+TMsgDirAddDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirAddDirectory.h
+END
+SMsgDirG2SingleEntityReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SingleEntityReply.cpp
+END
+SMsgDirG2ModifyDataObjects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ModifyDataObjects.cpp
+END
+SMsgDirG2SetACLs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SetACLs.cpp
+END
+SMsgDirG2GetDirContents.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2GetDirContents.h
+END
+TMsgDirDumpTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirDumpTree.h
+END
+TMsgDirGetDirContents.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirGetDirContents.cpp
+END
+SMsgDirG2SynchTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2SynchTree.cpp
+END
+DirACLs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirACLs.h
+END
+SMsgDirG2QueryGetBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryGetBase.h
+END
+SMsgDirG2QueryBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryBase.h
+END
+SMsgDirG2QueryFindBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2QueryFindBase.h
+END
+TMsgDirStatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirStatusReply.cpp
+END
+SMsgDirG2EntityBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2EntityBase.cpp
+END
+DirG2Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/DirG2Flags.h
+END
+TMsgDirServiceBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirServiceBase.h
+END
+SMsgDirG2ExplicitSetDOs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2ExplicitSetDOs.h
+END
+SMsgDirG2AddService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2AddService.cpp
+END
+SMsgDirG2FindDirectory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/SMsgDirG2FindDirectory.h
+END
+TMsgDirSynchDirTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Dir/TMsgDirSynchDirTree.cpp
+END

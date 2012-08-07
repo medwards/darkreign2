@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests
+END
+SMsgUsrFindUserByName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByName.cpp
+END
+SMsgUsrFindUserByWONId.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByWONId.cpp
+END
+SMsgUsrFindUserByBinKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByBinKey.cpp
+END
+SMsgUsrFindUserByCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByCategory.h
+END
+SMsgUsrFindUserByCommunity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByCommunity.cpp
+END
+SMsgUsrFindUserByName.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByName.h
+END
+SMsgUsrFindUserByWONId.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByWONId.h
+END
+SMsgUsrGetNumUsers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrGetNumUsers.cpp
+END
+SMsgUsrFindUserByBinKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByBinKey.h
+END
+SMsgUsrFindUserByLocation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByLocation.cpp
+END
+SMsgUsrFindUserByCommunity.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByCommunity.h
+END
+SMsgUsrGetNumUsers.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrGetNumUsers.h
+END
+SMsgUsrFindUserByLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByLocation.h
+END
+SMsgUsrFindUserByCategory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Client/Requests/SMsgUsrFindUserByCategory.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/won/Authentication
+END
+Identity.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/Identity.h
+END
+ClientCDKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/ClientCDKey.cpp
+END
+AuthSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/AuthSocket.h
+END
+ClientCDKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/ClientCDKey.h
+END
+Md52.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/Md52.cpp
+END
+Identity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/Identity.cpp
+END
+AuthSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/AuthSocket.cpp
+END
+Md52.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Authentication/Md52.h
+END

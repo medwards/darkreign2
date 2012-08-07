@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/source/styxnet
+END
+styxnet_server_user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/styxnet_server_user.cpp
+END
+styxnet_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/styxnet/styxnet_server.cpp
+END
+network_ping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/network_ping.cpp
+END
+styxnet_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/styxnet_data.cpp
+END
+win32_socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/win32_socket.cpp
+END
+styxnet_packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/styxnet_packet.h
+END
+win32_dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/styxnet/win32_dns.h
+END
+network_url.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/network_url.cpp
+END
+styxnet_client_session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/styxnet/styxnet_client_session.cpp
+END
+styxnet_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/styxnet_client.h
+END
+network_ip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/network_ip.cpp
+END
+styxnet.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/styxnet/styxnet.dsp
+END
+styxnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/styxnet/styxnet.h
+END
+win32_mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/win32_mutex.cpp
+END
+styxnet_transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/styxnet/styxnet_transfer.h
+END
+network_http.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/network_http.cpp
+END
+logging_destconsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/logging_destconsole.cpp
+END
+styxnet_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/styxnet/styxnet_std.h
+END
+win32_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/win32_thread.h
+END
+styxnet_clientresponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/styxnet/styxnet_clientresponse.h
+END
+styxnet_packet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/styxnet/styxnet_packet.cpp
+END
+network_icmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/network_icmp.h
+END
+win32_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/styxnet/win32_file.h
+END
+styxnet_server_session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/styxnet/styxnet_server_session.cpp
+END
+win32_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/styxnet/win32_event.h
+END
+styxnet_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/styxnet_server.h
+END
+network_ping.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/network_ping.h
+END
+win32_critsec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/styxnet/win32_critsec.cpp
+END
+win32_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/win32_socket.h
+END
+styxnet_server_item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/styxnet_server_item.cpp
+END
+styxnet_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/styxnet_event.h
+END
+styxnet_eventqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/styxnet/styxnet_eventqueue.cpp
+END
+styxnet_clientmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/styxnet_clientmessage.h
+END
+styxnet_serverresponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/styxnet/styxnet_serverresponse.h
+END
+win32_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/styxnet/win32_thread.cpp
+END
+win32_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/styxnet/win32_mutex.h
+END
+logging_destconsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/styxnet/logging_destconsole.h
+END
+network_http.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/network_http.h
+END
+styxnet_explorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/styxnet/styxnet_explorer.cpp
+END
+win32_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/win32_file.cpp
+END
+win32_event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/win32_event.cpp
+END
+win32_guid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/win32_guid.cpp
+END
+logging_dest.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/logging_dest.h
+END
+styxnet_client_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/styxnet/styxnet_client_private.h
+END
+styxnet_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/styxnet/styxnet_private.h
+END
+styxnet_server_migration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/styxnet/styxnet_server_migration.cpp
+END
+styxnet_servermessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/styxnet_servermessage.h
+END
+logging_destdr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/styxnet/logging_destdr2.h
+END
+win32_critsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/win32_critsec.h
+END
+logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/styxnet/logging.cpp
+END
+styxnet_eventqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/styxnet/styxnet_eventqueue.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/styxnet/stream.h
+END
+styxnet_server_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/styxnet/styxnet_server_private.h
+END
+styxnet_explorer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/styxnet/styxnet_explorer.h
+END
+win32_dns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/styxnet/win32_dns.cpp
+END
+ident.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/styxnet/ident.h
+END
+styxnet_client_user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/styxnet/styxnet_client_user.cpp
+END
+styxnet_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/styxnet/styxnet_data.h
+END
+styxnet_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/styxnet/styxnet_client.cpp
+END
+logging_destdr2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/styxnet/logging_destdr2.cpp
+END
+styxnet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/styxnet/styxnet.cpp
+END
+win32_guid.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/styxnet/win32_guid.h
+END
+network_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/styxnet/network_url.h
+END
+styxnet_transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/styxnet/styxnet_transfer.cpp
+END
+network_ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/styxnet/network_ip.h
+END
+styxnet_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/styxnet/styxnet_session.h
+END
+styxnet_std.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/styxnet/styxnet_std.cpp
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/styxnet/logging.h
+END

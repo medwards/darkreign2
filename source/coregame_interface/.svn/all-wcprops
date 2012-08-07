@@ -1,0 +1,827 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame_interface
+END
+studio_objecttweak.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_objecttweak.h
+END
+studio_controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/studio_controls.h
+END
+client_power.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/client_power.h
+END
+studio_brush_terraintweak.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_terraintweak.h
+END
+client_events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/client_events.cpp
+END
+studio_lighteditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_lighteditor.cpp
+END
+studio_brush_tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_tag.cpp
+END
+common_cycle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/common_cycle.cpp
+END
+client_facility.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/client_facility.h
+END
+studio_event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_event.cpp
+END
+studio_mission.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_mission.cpp
+END
+common_gamewindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/common_gamewindow.cpp
+END
+studio_brush_overlay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_overlay.cpp
+END
+client_squadcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_interface/client_squadcontrol.cpp
+END
+common_display.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/common_display.cpp
+END
+client_hud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/client_hud.cpp
+END
+studio_objecttweak_mapobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_interface/studio_objecttweak_mapobj.cpp
+END
+studio_brush_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_objects.h
+END
+studio_display.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_display.cpp
+END
+studio_taglist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_taglist.cpp
+END
+studio_history_objects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_interface/studio_history_objects.cpp
+END
+studio_teamlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_teamlist.cpp
+END
+studio_brush_pathsearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_pathsearch.cpp
+END
+client_commandpoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/client_commandpoints.h
+END
+studio_brush_objects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_objects.cpp
+END
+common_messagewindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/common_messagewindow.cpp
+END
+studio_teameditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_teameditor.cpp
+END
+studio_brush_apply.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_apply.h
+END
+common_typelist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/common_typelist.cpp
+END
+common_calendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/common_calendar.h
+END
+client_displayobjectives.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_interface/client_displayobjectives.h
+END
+studio_history.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_history.h
+END
+client_orderlag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_orderlag.cpp
+END
+client_debriefing.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_debriefing.h
+END
+studio_bookmarklistbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_interface/studio_bookmarklistbox.cpp
+END
+client_cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/client_cmd.cpp
+END
+common_prereqlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/common_prereqlist.cpp
+END
+studio_taglist.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_taglist.h
+END
+common_stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/common_stats.cpp
+END
+studio_history_terrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_interface/studio_history_terrain.cpp
+END
+studio_brush_water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_water.cpp
+END
+client_clustermap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/client_clustermap.cpp
+END
+studio_brush_apply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_apply.cpp
+END
+client_scorchcontrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/client_scorchcontrol.cpp
+END
+studio_bookmarklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_bookmarklist.h
+END
+studio_brush_terrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_terrain.cpp
+END
+studio_brush_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_trail.cpp
+END
+studio_regionlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_regionlist.cpp
+END
+common_prereqlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/common_prereqlist.h
+END
+common_teamlistbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/common_teamlistbox.h
+END
+client_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/client_trail.cpp
+END
+studio_brush_tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_tag.h
+END
+studio_lighteditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_lighteditor.h
+END
+common_stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/common_stats.h
+END
+studio_brush_region.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_region.cpp
+END
+common_gamewindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/common_gamewindow.h
+END
+studio_brush_curve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_curve.cpp
+END
+client_timeofday.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/client_timeofday.h
+END
+client_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_resource.cpp
+END
+client_group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/client_group.cpp
+END
+studio_attachlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_attachlist.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_interface/common.h
+END
+client_controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_controls.cpp
+END
+studio_brush_area.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_area.cpp
+END
+common_teamlistbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/common_teamlistbox.cpp
+END
+studio_brush_terrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_terrain.h
+END
+studio_footeditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_footeditor.cpp
+END
+studio_history_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_history_objects.h
+END
+studio_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_private.h
+END
+studio_regionlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_regionlist.h
+END
+common_cursorpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/common_cursorpos.h
+END
+common_mapwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/common_mapwindow.cpp
+END
+client_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/client_private.h
+END
+studio_teamlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/studio_teamlist.h
+END
+client_timeofday.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/client_timeofday.cpp
+END
+client_tactical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_tactical.cpp
+END
+studio_objecttweak_unitobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/coregame_interface/studio_objecttweak_unitobj.cpp
+END
+studio_brush_curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_curve.h
+END
+studio_attachlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_attachlist.cpp
+END
+studio_history.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_history.cpp
+END
+common_typelist.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/common_typelist.h
+END
+client_debriefing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/client_debriefing.cpp
+END
+client_construction.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/client_construction.h
+END
+client_orderlag.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/client_orderlag.h
+END
+studio_bookmarklistbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_bookmarklistbox.h
+END
+common_cursorpos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/common_cursorpos.cpp
+END
+studio_brush_area.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_area.h
+END
+studio_brush.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_brush.cpp
+END
+studio_mission.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_mission.h
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_interface/client.cpp
+END
+client_squadcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/client_squadcontrol.h
+END
+client_clustermap.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_clustermap.h
+END
+studio_brush_applycell.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_applycell.h
+END
+client_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/client_debug.cpp
+END
+common_prereqtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/common_prereqtree.cpp
+END
+client_tactical.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/client_tactical.h
+END
+client_unitselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/client_unitselection.h
+END
+studio_bookmarklist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_interface/studio_bookmarklist.cpp
+END
+client_commandpoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/client_commandpoints.cpp
+END
+studio_brush_trail.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_trail.h
+END
+studio.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_interface/studio.h
+END
+studio_brush_applycell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_applycell.cpp
+END
+studio_brush.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/studio_brush.h
+END
+client_displayobjectives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/coregame_interface/client_displayobjectives.cpp
+END
+studio_brush_pathsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_pathsearch.h
+END
+common_calendar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/common_calendar.cpp
+END
+client_unitcontext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/client_unitcontext.cpp
+END
+studio_brush_region.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_region.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_interface/client.h
+END
+client_unitselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/client_unitselection.cpp
+END
+studio_weather.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/studio_weather.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_interface/common.cpp
+END
+studio_teameditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_teameditor.h
+END
+common_messagewindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/common_messagewindow.h
+END
+studio_brush_terraintweak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_terraintweak.cpp
+END
+client_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_interface/client_resource.h
+END
+studio_controls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_controls.cpp
+END
+client_power.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/client_power.cpp
+END
+common_prereqtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/common_prereqtree.h
+END
+studio_objecttweak_resourceobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/coregame_interface/studio_objecttweak_resourceobj.cpp
+END
+common_typepreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/common_typepreview.h
+END
+client_facility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/client_facility.cpp
+END
+client_display.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/client_display.cpp
+END
+coregame_interface.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/coregame_interface.dsp
+END
+studio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_interface/studio.cpp
+END
+studio_footeditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_interface/studio_footeditor.h
+END
+studio_objecttweak_baseobj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/coregame_interface/studio_objecttweak_baseobj.cpp
+END
+studio_brush_overlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_overlay.h
+END
+studio_brush_water.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/studio_brush_water.h
+END
+studio_history_terrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_interface/studio_history_terrain.h
+END
+common_mapwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_interface/common_mapwindow.h
+END
+client_scorchcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/client_scorchcontrol.h
+END
+client_unitcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_interface/client_unitcontext.h
+END
+client_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_interface/client_construction.cpp
+END
+studio_cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_interface/studio_cmd.cpp
+END
+common_typepreview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_interface/common_typepreview.cpp
+END
+studio_weather.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_interface/studio_weather.h
+END

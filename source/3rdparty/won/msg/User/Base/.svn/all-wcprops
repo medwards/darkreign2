@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base
+END
+SMsgUsrFindBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrFindBase.cpp
+END
+SMsgUsrReplyBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrReplyBase.h
+END
+SMsgUsrFindBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrFindBase.h
+END
+SMsgUsrMultipleReplyBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrMultipleReplyBase.cpp
+END
+SMsgUsrReplyBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrReplyBase.cpp
+END
+SMsgUsrMultipleReplyBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Base/SMsgUsrMultipleReplyBase.h
+END

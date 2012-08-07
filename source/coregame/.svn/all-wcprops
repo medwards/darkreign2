@@ -1,0 +1,947 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/source/coregame
+END
+spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/spline.h
+END
+environment_quake.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/environment_quake.h
+END
+sight_bytemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/sight_bytemap.cpp
+END
+displayobjective.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame/displayobjective.cpp
+END
+blobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/blobs.cpp
+END
+particlefx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/particlefx.cpp
+END
+fx_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/fx_object.h
+END
+objective.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/objective.cpp
+END
+fx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/coregame/fx.cpp
+END
+terraindatadec.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/terraindatadec.h
+END
+action.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/action.h
+END
+meshfx_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/meshfx_object.h
+END
+soundfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/soundfx.cpp
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/message.h
+END
+footprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/footprint.h
+END
+movement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/movement.cpp
+END
+condition.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/condition.h
+END
+power.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/power.cpp
+END
+game_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/game_config.cpp
+END
+gamebabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/gamebabel.h
+END
+gameconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/gameconstants.h
+END
+footprint_placement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame/footprint_placement.cpp
+END
+physicsctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/physicsctrl.h
+END
+objective.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/objective.h
+END
+collisionctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/collisionctrl.cpp
+END
+sight_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/sight_map.h
+END
+sideplacement.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/sideplacement.h
+END
+pathsearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/pathsearch.cpp
+END
+propertylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/propertylist.h
+END
+viewer_track.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/viewer_track.cpp
+END
+movement_pathfollow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame/movement_pathfollow.cpp
+END
+weapon_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/weapon_type.cpp
+END
+claim.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/claim.h
+END
+soundfx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/soundfx_type.h
+END
+movement.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/movement.h
+END
+gamebabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/gamebabel.cpp
+END
+ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/coregame/ray.h
+END
+armourclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/armourclass.h
+END
+game_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/game_config.h
+END
+environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/environment.cpp
+END
+unitlimits.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/unitlimits.h
+END
+physicsctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/physicsctrl.cpp
+END
+particlefx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/particlefx_type.h
+END
+footprint_instance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame/footprint_instance.cpp
+END
+sight_tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/sight_tables.cpp
+END
+sight_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/sight_map.cpp
+END
+worldctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/worldctrl.cpp
+END
+damage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/damage.cpp
+END
+footprint_layer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/footprint_layer.cpp
+END
+environment_time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame/environment_time.cpp
+END
+coregame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/coregame.cpp
+END
+relation.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/relation.h
+END
+pathsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/pathsearch.h
+END
+armourclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/armourclass.cpp
+END
+stdinc_coregame.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/stdinc_coregame.h
+END
+ray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/ray.cpp
+END
+pathsearch_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/pathsearch_path.cpp
+END
+environment_light.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/environment_light.h
+END
+player.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/player.h
+END
+condition_cineractive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame/condition_cineractive.cpp
+END
+blobs.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/blobs.h
+END
+game_preview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/game_preview.cpp
+END
+pathsearch_pqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/pathsearch_pqueue.h
+END
+firing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/firing.cpp
+END
+fx.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/coregame/fx.h
+END
+damage.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/damage.h
+END
+footprint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/footprint.cpp
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/render.h
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/message.cpp
+END
+footprint_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/footprint_type.cpp
+END
+team.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/team.cpp
+END
+coregame.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/coregame.h
+END
+pathsearch_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/pathsearch_priv.h
+END
+environment_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/environment_time.h
+END
+environment_light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame/environment_light.cpp
+END
+particlefx_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/particlefx_object.h
+END
+game_rc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/game_rc.cpp
+END
+prereq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/prereq.cpp
+END
+radio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/radio.cpp
+END
+weapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/weapon.h
+END
+terraindata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/terraindata.cpp
+END
+viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/viewer.cpp
+END
+connectedregion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/connectedregion.cpp
+END
+game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/game.cpp
+END
+pathsearch_finder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame/pathsearch_finder.cpp
+END
+environment_rain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame/environment_rain.cpp
+END
+render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/render.cpp
+END
+game_preview.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/game_preview.h
+END
+terraingroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/terraingroup.cpp
+END
+firing.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/firing.h
+END
+weapon_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/weapon_manager.cpp
+END
+target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/target.cpp
+END
+team.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/coregame/team.h
+END
+viewer_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/viewer_base.cpp
+END
+worldload.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/worldload.h
+END
+worldctrldec.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/worldctrldec.h
+END
+viewer_padlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/viewer_padlock.cpp
+END
+movement_pathfollow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame/movement_pathfollow.h
+END
+viewer_action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/viewer_action.cpp
+END
+meshfx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/meshfx_type.h
+END
+viewer_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/viewer_private.h
+END
+prereq.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/prereq.h
+END
+radio.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/radio.h
+END
+terraindata.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/terraindata.h
+END
+displayobjective.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/displayobjective.h
+END
+viewer_beginner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/viewer_beginner.cpp
+END
+connectedregion.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/connectedregion.h
+END
+action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/action.cpp
+END
+sight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/sight.cpp
+END
+weapon_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/weapon_object.cpp
+END
+instance_modifier_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame/instance_modifier_private.h
+END
+viewer_standard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/viewer_standard.cpp
+END
+soundfx_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/soundfx_object.h
+END
+worldload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/worldload.cpp
+END
+promote.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/promote.h
+END
+missionvar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/missionvar.cpp
+END
+target.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/target.h
+END
+player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/player.cpp
+END
+power.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/power.h
+END
+pathsearch_cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/pathsearch_cmd.cpp
+END
+resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/resolver.h
+END
+viewer_cinema.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/viewer_cinema.cpp
+END
+sideplacement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/sideplacement.cpp
+END
+movetable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/movetable.cpp
+END
+condition_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/condition_game.cpp
+END
+instance_modifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame/instance_modifier.cpp
+END
+sight.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame/sight.h
+END
+fx_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/fx_type.h
+END
+footprint_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/footprint_private.h
+END
+claim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/claim.cpp
+END
+condition_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/condition_private.h
+END
+collisionctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/collisionctrl.h
+END
+physics_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/physics_type.h
+END
+spline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/spline.cpp
+END
+environment_quake.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame/environment_quake.cpp
+END
+viewer_custom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame/viewer_custom.cpp
+END
+missionvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/missionvar.h
+END
+unitlimits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/unitlimits.cpp
+END
+game_rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame/game_rc.h
+END
+sight_bytemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/sight_bytemap.h
+END
+viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/coregame/viewer.h
+END
+viewer_playback.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/viewer_playback.cpp
+END
+environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/environment.h
+END
+sight_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/sight_tables.h
+END
+relation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/relation.cpp
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/coregame/game.h
+END
+worldctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/worldctrl.h
+END
+environment_rain_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame/environment_rain_priv.h
+END
+environment_rain.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame/environment_rain.h
+END
+movetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame/movetable.h
+END
+physics_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame/physics_type.cpp
+END
+condition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame/condition.cpp
+END
+coregame.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/coregame/coregame.dsp
+END
+terraingroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame/terraingroup.h
+END
+instance_modifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame/instance_modifier.h
+END
+meshfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/coregame/meshfx.cpp
+END
+physics_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame/physics_const.h
+END

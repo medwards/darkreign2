@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth
+END
+TMsgAuth1LoginHL.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginHL.h
+END
+TMsgAuthRawBufferBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuthRawBufferBase.h
+END
+TMsgAuth1LoginHW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginHW.cpp
+END
+TMsgAuth1LoginReplyHL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginReplyHL.cpp
+END
+TMsgAuth1Login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1Login.cpp
+END
+TMsgAuth1PeerToPeer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1PeerToPeer.cpp
+END
+TMsgAuth1LoginHW.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginHW.h
+END
+TMsgAuth1Login.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1Login.h
+END
+TMsgAuth1LoginReplyHL.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginReplyHL.h
+END
+TMsgAuth1PeerToPeer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1PeerToPeer.h
+END
+TMsgAuthLastRawBufferBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuthLastRawBufferBase.cpp
+END
+MMsgAuth1KeepAliveHL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/MMsgAuth1KeepAliveHL.cpp
+END
+TMsgAuth1GetPubKeys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1GetPubKeys.cpp
+END
+TMsgAuth1LoginReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginReply.cpp
+END
+TMsgAuth1LoginBase2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginBase2.cpp
+END
+TMsgAuthLastRawBufferBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuthLastRawBufferBase.h
+END
+MMsgAuthRawBufferBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/MMsgAuthRawBufferBase.cpp
+END
+MMsgAuth1KeepAliveHL.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/MMsgAuth1KeepAliveHL.h
+END
+TMsgAuth1GetPubKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1GetPubKeys.h
+END
+TMsgTypesAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgTypesAuth.h
+END
+TMsgProtocolTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgProtocolTypes.h
+END
+TMsgAuth1LoginReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginReply.h
+END
+TMsgAuth1Login2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1Login2.cpp
+END
+TMsgAuth1LoginBase2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginBase2.h
+END
+MMsgAuthRawBufferBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/MMsgAuthRawBufferBase.h
+END
+TMsgAuth1LoginHL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1LoginHL.cpp
+END
+AuthMsgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/AuthMsgs.cpp
+END
+TMsgAuthRawBufferBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuthRawBufferBase.cpp
+END
+TMsgAuth1Login2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/msg/Auth/TMsgAuth1Login2.h
+END

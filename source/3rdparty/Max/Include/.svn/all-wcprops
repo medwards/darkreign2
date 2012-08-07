@@ -1,0 +1,1259 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/Max/Include
+END
+gport.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gport.h
+END
+istdplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/istdplug.h
+END
+gup.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gup.h
+END
+strclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/strclass.h
+END
+impexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/impexp.h
+END
+props.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/props.h
+END
+Meshacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Meshacc.h
+END
+SpaceArrayCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/Max/Include/SpaceArrayCallback.h
+END
+simpmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/simpmod.h
+END
+box2.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/box2.h
+END
+viewfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/viewfile.h
+END
+IComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IComponent.h
+END
+iparamb.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/iparamb.h
+END
+point4.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/point4.h
+END
+bitarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/bitarray.h
+END
+midiman.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/midiman.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/control.h
+END
+IRefArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IRefArray.h
+END
+maxtess.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/maxtess.h
+END
+bonesdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/bonesdef.h
+END
+animtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/animtbl.h
+END
+MNMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MNMesh.h
+END
+notetrck.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/notetrck.h
+END
+patchobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/patchobj.h
+END
+alerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/alerts.h
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/inode.h
+END
+patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/patch.h
+END
+partclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/partclib.h
+END
+SvCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/SvCore.h
+END
+shphier.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shphier.h
+END
+gcomm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gcomm.h
+END
+RefArrayBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/Max/Include/RefArrayBase.h
+END
+Osnapapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Osnapapi.h
+END
+keyreduc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/keyreduc.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/color.h
+END
+impapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/impapi.h
+END
+dpoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/dpoint3.h
+END
+patchcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/patchcap.h
+END
+soundobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/soundobj.h
+END
+gutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gutil.h
+END
+ipoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ipoint3.h
+END
+matrix2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/matrix2.h
+END
+patchlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/patchlib.h
+END
+stack3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/stack3.h
+END
+CompBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/CompBase.h
+END
+triobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/triobj.h
+END
+dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/dummy.h
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/winutil.h
+END
+zlibdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/zlibdll.h
+END
+arcdlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/arcdlg.h
+END
+iparamb2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/iparamb2.h
+END
+texutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/texutil.h
+END
+hsv.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/hsv.h
+END
+snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/snap.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ioapi.h
+END
+MODS.H
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MODS.H
+END
+bmmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/bmmlib.h
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/particle.h
+END
+lockid.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/lockid.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/object.h
+END
+decomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/decomp.h
+END
+appio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/appio.h
+END
+dbgprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/dbgprint.h
+END
+shadgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shadgen.h
+END
+box3.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/box3.h
+END
+gfxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gfxlib.h
+END
+meshadj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/meshadj.h
+END
+pixelbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/pixelbuf.h
+END
+frontend.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/frontend.h
+END
+fltapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/fltapi.h
+END
+gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gfx.h
+END
+namesel.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/namesel.h
+END
+maxcom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/maxcom.h
+END
+PrintManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/Max/Include/PrintManager.h
+END
+helpsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/helpsys.h
+END
+captypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/captypes.h
+END
+gcommlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gcommlib.h
+END
+macrorec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/macrorec.h
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/plugin.h
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shape.h
+END
+custcont.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/custcont.h
+END
+linshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/linshape.h
+END
+exprlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/exprlib.h
+END
+tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tab.h
+END
+iparamm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/iparamm2.h
+END
+SURF_API.H
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/SURF_API.H
+END
+fltlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/fltlib.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/render.h
+END
+acolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/acolor.h
+END
+spline3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/spline3d.h
+END
+simpshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/simpshp.h
+END
+MNMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MNMath.h
+END
+VIZFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/VIZFunc.h
+END
+mouseman.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/mouseman.h
+END
+max.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/max.h
+END
+gupapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gupapi.h
+END
+interpik.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/interpik.h
+END
+simpspl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/simpspl.h
+END
+SimpComp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/SimpComp.h
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/matrix3.h
+END
+FileLinkApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/Max/Include/FileLinkApi.h
+END
+tvutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tvutil.h
+END
+shaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shaders.h
+END
+gencam.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gencam.h
+END
+icurvctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/icurvctl.h
+END
+MNBigMat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MNBigMat.h
+END
+imacroscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/Max/Include/imacroscript.h
+END
+IGuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IGuest.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/stack.h
+END
+fbwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/fbwin.h
+END
+coreexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/coreexp.h
+END
+MeshDelta.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MeshDelta.h
+END
+IGeomImp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IGeomImp.h
+END
+Osnapmk.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Osnapmk.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/quat.h
+END
+strbasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/strbasic.h
+END
+point2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/point2.h
+END
+splshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/splshape.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/export.h
+END
+guplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/guplib.h
+END
+MNCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MNCommon.h
+END
+icmdline.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/icmdline.h
+END
+nsclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/nsclip.h
+END
+ikctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ikctrl.h
+END
+tessint.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tessint.h
+END
+utilexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/utilexp.h
+END
+mtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/mtl.h
+END
+polyshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/polyshp.h
+END
+plugapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/plugapi.h
+END
+simpobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/simpobj.h
+END
+trig.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/trig.h
+END
+imtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/imtl.h
+END
+Osnapdlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Osnapdlg.h
+END
+bezfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/bezfont.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/filters.h
+END
+maxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/maxtypes.h
+END
+palutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/palutil.h
+END
+sbmtlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/sbmtlapi.h
+END
+buildver.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/buildver.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/bitmap.h
+END
+euler.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/euler.h
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/expr.h
+END
+maxapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/maxapi.h
+END
+gbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gbuf.h
+END
+meshlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/meshlib.h
+END
+Omanapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Omanapi.h
+END
+interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/interval.h
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tcp.h
+END
+sceneapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/sceneapi.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/geom.h
+END
+hotcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/hotcheck.h
+END
+genshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/genshape.h
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/mesh.h
+END
+IReagent.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IReagent.h
+END
+IAggregation.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/Max/Include/IAggregation.h
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/units.h
+END
+ptrvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ptrvec.h
+END
+templt.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/templt.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/nametab.h
+END
+utilapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/utilapi.h
+END
+evuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/evuser.h
+END
+MouseProc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MouseProc.h
+END
+point3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/point3.h
+END
+shadbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shadbuf.h
+END
+gfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gfloat.h
+END
+hitdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/hitdata.h
+END
+geomlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/geomlib.h
+END
+polyobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/polyobj.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/client.h
+END
+objmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/objmode.h
+END
+Osnap.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Osnap.h
+END
+ILayerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ILayerManager.h
+END
+coregen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/coregen.h
+END
+gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gamma.h
+END
+assert1.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/assert1.h
+END
+mstshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/mstshape.h
+END
+contextids.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/Max/Include/contextids.h
+END
+dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/dynamic.h
+END
+Osnaphit.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Osnaphit.h
+END
+iparamm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/iparamm.h
+END
+MeshDLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/MeshDLib.h
+END
+linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/linklist.h
+END
+tcbgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tcbgraph.h
+END
+vedge.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/vedge.h
+END
+gizmoimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gizmoimp.h
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/channels.h
+END
+rtclick.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/rtclick.h
+END
+KbdShortcut.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/Max/Include/KbdShortcut.h
+END
+stdmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/stdmat.h
+END
+tvnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/tvnode.h
+END
+genlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/genlight.h
+END
+utillib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/utillib.h
+END
+modstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/modstack.h
+END
+cmdmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/cmdmode.h
+END
+notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/notify.h
+END
+Toolmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/Toolmap.h
+END
+evrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/evrouter.h
+END
+modsres.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/modsres.h
+END
+ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ref.h
+END
+mcapdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/mcapdev.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/random.h
+END
+genhier.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/genhier.h
+END
+shpsels.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/shpsels.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/Max/Include/log.h
+END
+ipoint2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ipoint2.h
+END
+ILayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/Max/Include/ILayer.h
+END
+gizmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/Max/Include/gizmo.h
+END
+samplers.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/Max/Include/samplers.h
+END
+hold.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/Max/Include/hold.h
+END

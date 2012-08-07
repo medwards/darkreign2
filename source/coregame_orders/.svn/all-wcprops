@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/coregame_orders
+END
+orders_game_postevent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_game_postevent.cpp
+END
+orders_game_restorestatic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_orders/orders_game_restorestatic.cpp
+END
+orders.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame_orders/orders.h
+END
+orders_game_addselected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_orders/orders_game_addselected.cpp
+END
+orders_game_delete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_game_delete.cpp
+END
+orders_squad_empty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_empty.cpp
+END
+orders_game_dumpsync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_game_dumpsync.cpp
+END
+orders_squad_addselected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_addselected.cpp
+END
+orders_squad_delete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_delete.cpp
+END
+orders_game_attack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_game_attack.cpp
+END
+orders_game_selfdestruct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_orders/orders_game_selfdestruct.cpp
+END
+orders_game_revealspy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_game_revealspy.cpp
+END
+orders_squad_attack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_attack.cpp
+END
+orders_game_pause.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_pause.cpp
+END
+orders_game.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_orders/orders_game.h
+END
+orders_game_board.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_board.cpp
+END
+orders_squad.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_orders/orders_squad.h
+END
+orders_squad_board.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_board.cpp
+END
+orders_game_store.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_store.cpp
+END
+orders_game_transport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_game_transport.cpp
+END
+coregame_orders.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_orders/coregame_orders.dsp
+END
+orders_game_formation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_game_formation.cpp
+END
+orders_squad_defect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_defect.cpp
+END
+orders_game_setrestore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_orders/orders_game_setrestore.cpp
+END
+orders_game_wall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_wall.cpp
+END
+orders_game_build.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_build.cpp
+END
+orders_game_infiltrate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_orders/orders_game_infiltrate.cpp
+END
+orders_squad_formation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_formation.cpp
+END
+orders_squad_followtag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_followtag.cpp
+END
+orders_game_move.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_move.cpp
+END
+orders_squad_move.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_move.cpp
+END
+orders_game_restoremobile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_orders/orders_game_restoremobile.cpp
+END
+orders_game_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_trail.cpp
+END
+orders_squad_notify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_notify.cpp
+END
+orders_squad_trail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_trail.cpp
+END
+orders_game_return.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_game_return.cpp
+END
+orders_game_steponce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_game_steponce.cpp
+END
+orders_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_orders/orders_game.cpp
+END
+orders_squad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_orders/orders_squad.cpp
+END
+orders_game_tactical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_game_tactical.cpp
+END
+orders_game_morph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_morph.cpp
+END
+orders_game_ejectspy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_game_ejectspy.cpp
+END
+orders_squad_tactical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_tactical.cpp
+END
+orders_squad_spawn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_spawn.cpp
+END
+orders_squad_destroy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_destroy.cpp
+END
+orders_game_setrally.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_game_setrally.cpp
+END
+orders_game_clearselected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_orders/orders_game_clearselected.cpp
+END
+orders_game_playerleft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_orders/orders_game_playerleft.cpp
+END
+orders_squad_create.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_create.cpp
+END
+orders_game_offmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_game_offmap.cpp
+END
+orders_game_unload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_game_unload.cpp
+END
+orders_game_restore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_restore.cpp
+END
+orders_game_collect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_collect.cpp
+END
+orders_game_stop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_stop.cpp
+END
+orders_game_recycle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_recycle.cpp
+END
+orders.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/coregame_orders/orders.cpp
+END
+orders_game_upgrade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_upgrade.cpp
+END
+orders_squad_restore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_restore.cpp
+END
+orders_game_turn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_turn.cpp
+END
+orders_squad_stop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_stop.cpp
+END
+orders_game_give.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_give.cpp
+END
+orders_game_guard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_guard.cpp
+END
+orders_game_scatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_scatter.cpp
+END
+orders_squad_guard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_guard.cpp
+END
+orders_game_trailpoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_orders/orders_game_trailpoints.cpp
+END
+orders_squad_transportspawn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_transportspawn.cpp
+END
+orders_squad_removeselected.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_removeselected.cpp
+END
+orders_game_explore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_orders/orders_game_explore.cpp
+END
+orders_squad_explore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_orders/orders_squad_explore.cpp
+END
+orders_game_powerdown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_orders/orders_game_powerdown.cpp
+END
+orders_game_constructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_orders/orders_game_constructor.cpp
+END
+orders_game_fire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_orders/orders_game_fire.cpp
+END
+orders_game_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_orders/orders_game_debug.cpp
+END

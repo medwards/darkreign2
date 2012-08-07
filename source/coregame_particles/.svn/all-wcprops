@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame_particles
+END
+beamrender_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_particles/beamrender_base.cpp
+END
+geometryrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_particles/geometryrender.h
+END
+embersimulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_particles/embersimulate.h
+END
+particlerender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_particles/particlerender.cpp
+END
+bloodsimulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_particles/bloodsimulate.cpp
+END
+spriterender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_particles/spriterender.cpp
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_particles/particle.h
+END
+trailrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_particles/trailrender.cpp
+END
+particlesystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_particles/particlesystem.h
+END
+waterspriterender.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_particles/waterspriterender.h
+END
+chunksimulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_particles/chunksimulate.h
+END
+beamrender_weapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_particles/beamrender_weapon.h
+END
+groundspriterender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_particles/groundspriterender.cpp
+END
+smokesimulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_particles/smokesimulate.h
+END
+dustsimulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_particles/dustsimulate.h
+END
+beamrender_shroud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_particles/beamrender_shroud.cpp
+END
+geometryrender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_particles/geometryrender.cpp
+END
+beamrender_plain.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_particles/beamrender_plain.h
+END
+coregame_particles.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_particles/coregame_particles.dsp
+END
+embersimulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_particles/embersimulate.cpp
+END
+beamrender_runner.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_particles/beamrender_runner.h
+END
+particle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_particles/particle.cpp
+END
+beamrender_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_particles/beamrender_base.h
+END
+particlesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_particles/particlesystem.cpp
+END
+particlerender.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_particles/particlerender.h
+END
+bloodsimulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_particles/bloodsimulate.h
+END
+waterspriterender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_particles/waterspriterender.cpp
+END
+spriterender.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_particles/spriterender.h
+END
+chunksimulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_particles/chunksimulate.cpp
+END
+particlesystem_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_particles/particlesystem_priv.h
+END
+beamrender_weapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_particles/beamrender_weapon.cpp
+END
+trailrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_particles/trailrender.h
+END
+smokesimulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_particles/smokesimulate.cpp
+END
+dustsimulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_particles/dustsimulate.cpp
+END
+beamrender_plain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_particles/beamrender_plain.cpp
+END
+groundspriterender.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_particles/groundspriterender.h
+END
+beamrender_shroud.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_particles/beamrender_shroud.h
+END
+beamrender_runner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_particles/beamrender_runner.cpp
+END

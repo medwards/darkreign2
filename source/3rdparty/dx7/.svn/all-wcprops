@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/3rdparty/dx7
+END
+d3dxsprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxsprite.h
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/dx7/dsound.h
+END
+dxsdk.inc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dxsdk.inc
+END
+d3dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dtypes.h
+END
+ddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/dx7/ddraw.h
+END
+d3dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dx.h
+END
+dmdls.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/dx7/dmdls.h
+END
+d3dvec.inl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dvec.inl
+END
+dinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/dx7/dinput.h
+END
+dxguid.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dxguid.lib
+END
+d3drmobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3drmobj.h
+END
+dplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/dx7/dplay.h
+END
+rmxftmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/rmxftmpl.h
+END
+d3drm.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/dx7/d3drm.h
+END
+dmerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dmerror.h
+END
+dmusbuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dmusbuff.h
+END
+d3dxcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxcore.h
+END
+dxfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/dx7/dxfile.h
+END
+d3dxmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxmath.h
+END
+d3dim.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dim.lib
+END
+DSETUP.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/DSETUP.lib
+END
+dmusicc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dmusicc.h
+END
+d3drmdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3drmdef.h
+END
+rmxftmpl.x
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/rmxftmpl.x
+END
+dvp.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/3rdparty/dx7/dvp.h
+END
+dmusicf.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dmusicf.h
+END
+dplobby.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dplobby.h
+END
+dmusici.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dmusici.h
+END
+dls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/3rdparty/dx7/dls1.h
+END
+multimon.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/multimon.h
+END
+dls2.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/3rdparty/dx7/dls2.h
+END
+dsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/dx7/dsetup.h
+END
+d3dxshapes.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxshapes.h
+END
+d3dxof.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxof.lib
+END
+dinputd.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/dinputd.h
+END
+d3dxmath.inl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxmath.inl
+END
+d3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/3rdparty/dx7/d3d.h
+END
+d3dxerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxerr.h
+END
+dsound.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dsound.lib
+END
+ddraw.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/ddraw.lib
+END
+dplayx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dplayx.lib
+END
+d3dcaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dcaps.h
+END
+d3dx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dx.lib
+END
+dinput.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dinput.lib
+END
+dmksctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/dmksctrl.h
+END
+d3dxd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/d3dxd.lib
+END
+rmxfguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/rmxfguid.h
+END
+d3drmwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/3rdparty/dx7/d3drmwin.h
+END
+d3drm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/dx7/d3drm.lib
+END

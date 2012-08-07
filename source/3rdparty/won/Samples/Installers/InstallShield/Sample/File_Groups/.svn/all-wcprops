@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups
+END
+Program_Executable_Files.fgl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Program_Executable_Files.fgl
+END
+Help_Files.fgl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Help_Files.fgl
+END
+Default.fdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Default.fdf
+END
+Example_Files.fgl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Example_Files.fgl
+END
+Shared_DLLs.fgl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Shared_DLLs.fgl
+END
+Program_DLLs.fgl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/source/3rdparty/won/Samples/Installers/InstallShield/Sample/File_Groups/Program_DLLs.fgl
+END

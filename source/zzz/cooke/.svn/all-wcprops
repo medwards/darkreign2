@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/source/zzz/cooke
+END
+meshextra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/zzz/cooke/meshextra.cpp
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/zzz/cooke/mesh.h
+END
+meshent_render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/meshent_render.cpp
+END
+terrain_render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/terrain_render.cpp
+END
+meshrend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/zzz/cooke/meshrend.cpp
+END
+camera_occlusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/zzz/cooke/camera_occlusion.cpp
+END
+terrain_extra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/zzz/cooke/terrain_extra.cpp
+END
+camclip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/zzz/cooke/camclip.cpp
+END
+vid_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/zzz/cooke/vid_sprite.cpp
+END
+mesheffect_texturefade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/zzz/cooke/mesheffect_texturefade.cpp
+END
+ColorValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/zzz/cooke/ColorValue.cpp
+END
+lensflare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/zzz/cooke/lensflare.cpp
+END
+camera_occlusion.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/zzz/cooke/camera_occlusion.h
+END
+mesheffecttype_texturefade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/zzz/cooke/mesheffecttype_texturefade.cpp
+END
+meshrend_2x.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/zzz/cooke/meshrend_2x.cpp
+END
+mesheffect_texturefade.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/zzz/cooke/mesheffect_texturefade.h
+END
+lensflare.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/zzz/cooke/lensflare.h
+END
+ColorValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/zzz/cooke/ColorValue.h
+END
+mesheffecttype_texturefade.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/zzz/cooke/mesheffecttype_texturefade.h
+END
+meshrend_2_xtra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/zzz/cooke/meshrend_2_xtra.cpp
+END
+camverts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/zzz/cooke/camverts.cpp
+END
+lightverts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/zzz/cooke/lightverts.cpp
+END

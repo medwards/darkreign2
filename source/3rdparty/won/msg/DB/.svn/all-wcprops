@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB
+END
+SMsgDBVerifyUserReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBVerifyUserReply.cpp
+END
+SMsgDBRegisterUserReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBRegisterUserReply.cpp
+END
+SMsgDBVerifyUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBVerifyUser.cpp
+END
+SMsgDBRegisterUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBRegisterUser.cpp
+END
+SMsgDBVerifyUserReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBVerifyUserReply.h
+END
+SMsgDBRegisterUserReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBRegisterUserReply.h
+END
+SMsgDBRegisterUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBRegisterUser.h
+END
+SMsgDBVerifyUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgDBVerifyUser.h
+END
+SMsgTypesDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/msg/DB/SMsgTypesDB.h
+END

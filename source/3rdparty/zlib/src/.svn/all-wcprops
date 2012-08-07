@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/3rdparty/zlib/src
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infcodes.h
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/deflate.c
+END
+zlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/zlib/src/zlib.dsp
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/3rdparty/zlib/src/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/3rdparty/zlib/src/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/deflate.h
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infutil.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inftrees.c
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infutil.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/uncompr.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inftrees.h
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/minigzip.c
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infblock.c
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/zlib/src/trees.h
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infcodes.c
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/compress.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/example.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/infblock.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/zlib/src/adler32.c
+END
+maketree.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/zlib/src/maketree.c
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/4/source/game
+END
+movieplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/game/movieplayer.h
+END
+mods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/mods.cpp
+END
+missions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/missions.cpp
+END
+win32reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/game/win32reg.h
+END
+game_login.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/game_login.h
+END
+sides.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/game/sides.cpp
+END
+campaigns.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/game/campaigns.h
+END
+difficulty.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/difficulty.h
+END
+gamegod.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/game/gamegod.h
+END
+game_addonlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/game/game_addonlist.cpp
+END
+sync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/sync.cpp
+END
+gameruncodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/game/gameruncodes.h
+END
+gamesound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/game/gamesound.cpp
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/game/user.h
+END
+game_campaignselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/game/game_campaignselection.h
+END
+game_missionselection.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/game/game_missionselection.h
+END
+trackplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/game/trackplayer.h
+END
+gametime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/gametime.cpp
+END
+guid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/guid.cpp
+END
+savegame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/savegame.cpp
+END
+demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/game/demo.h
+END
+game_saveload.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/game/game_saveload.h
+END
+game_difficultylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/game/game_difficultylist.h
+END
+movieplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/game/movieplayer.cpp
+END
+win32reg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/game/win32reg.cpp
+END
+game_login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/game/game_login.cpp
+END
+difficulty.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/game/difficulty.cpp
+END
+campaigns.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/game/campaigns.cpp
+END
+gamegod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/game/gamegod.cpp
+END
+mods.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/game/mods.h
+END
+missions.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/game/missions.h
+END
+sides.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/game/sides.h
+END
+gameruncodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/game/gameruncodes.cpp
+END
+game.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/game.dsp
+END
+user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/user.cpp
+END
+game_campaignselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/game/game_campaignselection.cpp
+END
+game_addonlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/game/game_addonlist.h
+END
+game_missionselection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/game/game_missionselection.cpp
+END
+sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/game/sync.h
+END
+trackplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/game/trackplayer.cpp
+END
+demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/game/demo.cpp
+END
+gamesound.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/game/gamesound.h
+END
+game_saveload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/game/game_saveload.cpp
+END
+game_difficultylist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/game/game_difficultylist.cpp
+END
+guid.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/game/guid.h
+END
+savegame.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/game/savegame.h
+END
+gametime.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/game/gametime.h
+END

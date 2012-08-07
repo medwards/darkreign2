@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/3rdparty/won/auth
+END
+Auth1PrivateKeyBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1PrivateKeyBlock.cpp
+END
+authTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/auth/authTest.cpp
+END
+AuthFamilyBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthFamilyBuffer.h
+END
+AuthCertificateBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthCertificateBase.h
+END
+Auth1PublicKeyBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1PublicKeyBlock.cpp
+END
+AuthTest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthTest.dsp
+END
+WON_AuthCertificate1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthCertificate1.cpp
+END
+WON_AuthFamilyBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthFamilyBuffer.cpp
+END
+WON_AuthFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthFactory.h
+END
+AuthPublicKeyBlockBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthPublicKeyBlockBase.h
+END
+Auth1Certificate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1Certificate.cpp
+END
+Session.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/won/auth/Session.h
+END
+WONAuth.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/auth/WONAuth.dsp
+END
+Auth1Container.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1Container.h
+END
+Auth2Certificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth2Certificate.h
+END
+Permission.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/auth/Permission.h
+END
+AuthFamilyBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthFamilyBuffer.cpp
+END
+WON_AuthPublicKeyBlock1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthPublicKeyBlock1.h
+END
+AuthCertificateBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthCertificateBase.cpp
+END
+auth.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/won/auth/auth.dsp
+END
+Auth1PrivateKeyBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1PrivateKeyBlock.h
+END
+Auth1PublicKeyBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1PublicKeyBlock.h
+END
+auth.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/won/auth/auth.dsw
+END
+WON_AuthFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthFactory.cpp
+END
+WON_AuthCertificate1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthCertificate1.h
+END
+AuthPublicKeyBlockBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthPublicKeyBlockBase.cpp
+END
+AuthFamilies.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/auth/AuthFamilies.h
+END
+Session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/auth/Session.cpp
+END
+CryptFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/auth/CryptFlags.h
+END
+WON_AuthFamilyBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthFamilyBuffer.h
+END
+Auth2Certificate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth2Certificate.cpp
+END
+WON_AuthPublicKeyBlock1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/auth/WON_AuthPublicKeyBlock1.cpp
+END
+Auth1Certificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/auth/Auth1Certificate.h
+END

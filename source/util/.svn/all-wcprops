@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/4/source/util
+END
+multilanguage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/util/multilanguage.cpp
+END
+param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/param.cpp
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/util/stats.h
+END
+tracksys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/util/tracksys.cpp
+END
+operation.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/operation.h
+END
+switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/util/switch.h
+END
+relationaloperator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/util/relationaloperator.cpp
+END
+utiltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/utiltypes.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/console.h
+END
+varitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/varitem.cpp
+END
+statemachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/util/statemachine.h
+END
+comparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/util/comparison.cpp
+END
+babel.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/util/babel.h
+END
+varptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/varptr.cpp
+END
+perfstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/perfstats.h
+END
+event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/event.cpp
+END
+util.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/util/util.dsp
+END
+plasma.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/util/plasma.h
+END
+bitarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/bitarray.h
+END
+mathtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/mathtypes.h
+END
+sunpos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/sunpos.cpp
+END
+varsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/util/varsys.h
+END
+varfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/varfile.h
+END
+stats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/stats.cpp
+END
+stdload.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/stdload.h
+END
+midpointline.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/util/midpointline.h
+END
+operation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/util/operation.cpp
+END
+switch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/switch.cpp
+END
+balancetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/util/balancetable.h
+END
+utiltypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/util/utiltypes.cpp
+END
+console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/console.cpp
+END
+multilanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/util/multilanguage.h
+END
+babel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/util/babel.cpp
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/util/param.h
+END
+tracksys.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/tracksys.h
+END
+promotelink.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/util/promotelink.h
+END
+arithmeticoperator.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/util/arithmeticoperator.h
+END
+mathtypes_stub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/util/mathtypes_stub.cpp
+END
+relationaloperator.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/util/relationaloperator.h
+END
+perfstats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/util/perfstats.cpp
+END
+lopassfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/util/lopassfilter.h
+END
+area.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/util/area.h
+END
+plasma.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/plasma.cpp
+END
+mathtypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/util/mathtypes.cpp
+END
+comparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/util/comparison.h
+END
+varscope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/util/varscope.cpp
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/util/color.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/util/event.h
+END
+varsys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/util/varsys.cpp
+END
+varfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/varfile.cpp
+END
+stdload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/util/stdload.cpp
+END
+sunpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/util/sunpos.h
+END

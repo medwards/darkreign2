@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/Utils.cpp
+END
+Threadbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/Threadbase.cpp
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/Utils.h
+END
+AdProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdProtocol.cpp
+END
+Threadbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/Threadbase.h
+END
+AdCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdCache.cpp
+END
+AdDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdDisplay.cpp
+END
+AdEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdEngine.cpp
+END
+AdProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdProtocol.h
+END
+AdCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdCache.h
+END
+AdApi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdApi.cpp
+END
+AdEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdEngine.h
+END
+AdDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdDisplay.h
+END
+AdApi.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdApi.dsp
+END
+AdApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdApi.h
+END
+CriticalSection.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/CriticalSection.h
+END
+RegKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/RegKey.cpp
+END
+NetCommInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/NetCommInterface.h
+END
+AdApi.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/AdApi.dsw
+END
+RegKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/RegKey.h
+END

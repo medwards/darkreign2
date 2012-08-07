@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription
+END
+SMsgUsrSubscribeToUserList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrSubscribeToUserList.cpp
+END
+SMsgUsrPushedUserListEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrPushedUserListEx.cpp
+END
+SMsgUsrPushedUserList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrPushedUserList.cpp
+END
+SMsgUsrSubscribeToUserList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrSubscribeToUserList.h
+END
+SMsgUsrPushedUserListEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrPushedUserListEx.h
+END
+SMsgUsrPushedUserList.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/source/3rdparty/won/msg/User/Subscription/SMsgUsrPushedUserList.h
+END

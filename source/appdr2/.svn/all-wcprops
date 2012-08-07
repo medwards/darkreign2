@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/source/appdr2
+END
+dr2.res
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/appdr2/dr2.res
+END
+dr2.ico
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/appdr2/dr2.ico
+END
+winmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/appdr2/winmain.cpp
+END
+dr2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/appdr2/dr2.rc
+END
+appdr2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/appdr2/appdr2.dsp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/appdr2/resource.h
+END
+afxres.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/appdr2/afxres.h
+END

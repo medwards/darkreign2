@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/3rdparty/zlib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/zlib/zlib.lib
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/3rdparty/zlib/zconf.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/zlib/zlib.h
+END

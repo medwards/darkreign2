@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing
+END
+MMsgRoutingGroupChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGroupChange.cpp
+END
+MMsgRoutingInviteClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingInviteClient.h
+END
+MMsgRoutingRemoveFromGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRemoveFromGroup.h
+END
+MMsgRoutingPeerDataMultiple.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerDataMultiple.h
+END
+MMsgRoutingModifyDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingModifyDataObject.cpp
+END
+MMsgRoutingGetSimpleClientL.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetSimpleClientL.h
+END
+MMsgRoutingSubDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSubDataObject.cpp
+END
+MMsgRoutingGetClientList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetClientList.cpp
+END
+MMsgRoutingSpectatorCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSpectatorCount.cpp
+END
+MMsgRoutingReadDataObjectR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReadDataObjectR.cpp
+END
+MMsgRoutingReconnectClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReconnectClient.cpp
+END
+RoutingServerFlagMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerFlagMessage.cpp
+END
+MMsgRoutingAddSuccessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAddSuccessor.cpp
+END
+MMsgRoutingSendData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendData.cpp
+END
+MMsgRoutingGrpSpectatorCnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGrpSpectatorCnt.h
+END
+MMsgRoutingGetGroupList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetGroupList.cpp
+END
+MMsgRoutingClientChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingClientChange.h
+END
+MMsgRoutingSendChat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendChat.cpp
+END
+MMsgRoutingBaseDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBaseDataObject.cpp
+END
+MMsgRoutingReadDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReadDataObject.cpp
+END
+MMsgRoutingInviteClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingInviteClient.cpp
+END
+MMsgRoutingDisconnectClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDisconnectClient.h
+END
+MMsgRoutingAcceptClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAcceptClient.cpp
+END
+RoutingServerClientIdFlgMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerClientIdFlgMsg.cpp
+END
+MMsgRoutingPeerDataMultiple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerDataMultiple.cpp
+END
+MMsgRoutingBanClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBanClient.h
+END
+MMsgRoutingRenewDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRenewDataObject.h
+END
+MMsgRoutingGroupChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGroupChange.h
+END
+MMsgRoutingAddToGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAddToGroup.cpp
+END
+MMsgRoutingCloseReg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCloseReg.h
+END
+MMsgRoutingKeepAlive.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingKeepAlive.h
+END
+MMsgRoutingBecomeModerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBecomeModerator.h
+END
+MMsgRoutingHostSuccession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingHostSuccession.cpp
+END
+MMsgRoutingModifyDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingModifyDataObject.h
+END
+MMsgRoutingMuteClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingMuteClient.h
+END
+MMsgRoutingGetClientList.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetClientList.h
+END
+MMsgRoutingSubDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSubDataObject.h
+END
+MMsgRoutingCreateGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCreateGroup.cpp
+END
+MMsgRoutingReadDataObjectR.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReadDataObjectR.h
+END
+MMsgRoutingDeleteGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDeleteGroup.h
+END
+MMsgRoutingAddSuccessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAddSuccessor.h
+END
+MMsgRoutingDeleteDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDeleteDataObject.h
+END
+MMsgRoutingHostChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingHostChange.h
+END
+MMsgRoutingSendDataBrdcst.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendDataBrdcst.h
+END
+MMsgRoutingPeerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerData.h
+END
+MMsgRoutingGetGroupList.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetGroupList.h
+END
+MMsgRoutingBanClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBanClient.cpp
+END
+MMsgRoutingReplaceDataObj.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReplaceDataObj.cpp
+END
+MMsgRoutingPeerChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerChat.h
+END
+MMsgRoutingReadDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReadDataObject.h
+END
+MMsgRoutingRenewDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRenewDataObject.cpp
+END
+MMsgRoutingBootClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBootClient.cpp
+END
+MMsgRoutingCloseReg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCloseReg.cpp
+END
+RoutingServerClientIdFlgMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerClientIdFlgMsg.h
+END
+MMsgRoutingAcceptClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAcceptClient.h
+END
+MMsgRoutingSendDataMultiple.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendDataMultiple.h
+END
+MMsgRoutingKeepAlive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingKeepAlive.cpp
+END
+MMsgRoutingBecomeModerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBecomeModerator.cpp
+END
+MMsgTypesRouting.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgTypesRouting.h
+END
+MMsgRoutingMuteClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingMuteClient.cpp
+END
+MMsgRoutingGetUserList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetUserList.cpp
+END
+RoutingServerTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerTypes.h
+END
+MMsgRoutingAddToGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingAddToGroup.h
+END
+MMsgRoutingSetPassword.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSetPassword.cpp
+END
+MMsgRoutingDeleteGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDeleteGroup.cpp
+END
+MMsgRoutingClientBooted.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingClientBooted.h
+END
+MMsgRoutingHostSuccession.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingHostSuccession.h
+END
+MMsgRoutingUnsubDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingUnsubDataObject.h
+END
+MMsgRoutingDeleteDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDeleteDataObject.cpp
+END
+MMsgRoutingHostChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingHostChange.cpp
+END
+MMsgRoutingCreateDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCreateDataObject.cpp
+END
+MMsgRoutingSendDataBrdcst.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendDataBrdcst.cpp
+END
+MMsgRoutingPeerData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerData.cpp
+END
+MMsgRoutingCreateGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCreateGroup.h
+END
+RoutingMsgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingMsgs.cpp
+END
+MMsgRoutingRegisterClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRegisterClient.h
+END
+MMsgRoutingPeerChat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingPeerChat.cpp
+END
+MMsgRoutingRemoveSuccessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRemoveSuccessor.h
+END
+MMsgRoutingOpenRegistration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingOpenRegistration.cpp
+END
+RoutingSrvClientNameFlagMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingSrvClientNameFlagMsg.h
+END
+RoutingServerMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerMessage.h
+END
+MMsgRoutingRemoveFromGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRemoveFromGroup.cpp
+END
+MMsgRoutingSendDataMultiple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendDataMultiple.cpp
+END
+MMsgRoutingStatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingStatusReply.h
+END
+AddresseeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/AddresseeList.h
+END
+MMsgRoutingGetSimpleClientL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetSimpleClientL.cpp
+END
+MMsgRoutingReplaceDataObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReplaceDataObj.h
+END
+MMsgRoutingBootClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBootClient.h
+END
+MMsgRoutingClientBooted.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingClientBooted.cpp
+END
+MMsgRoutingUnsubDataObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingUnsubDataObject.cpp
+END
+MMsgRoutingGetUserList.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGetUserList.h
+END
+MMsgRoutingSpectatorCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSpectatorCount.h
+END
+MMsgRoutingGrpSpectatorCnt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingGrpSpectatorCnt.cpp
+END
+MMsgRoutingRegisterClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRegisterClient.cpp
+END
+MMsgRoutingSetPassword.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSetPassword.h
+END
+MMsgRoutingClientChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingClientChange.cpp
+END
+MMsgRoutingReconnectClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingReconnectClient.h
+END
+RoutingServerFlagMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerFlagMessage.h
+END
+RoutingServerMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingServerMessage.cpp
+END
+MMsgRoutingRemoveSuccessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingRemoveSuccessor.cpp
+END
+RoutingSrvClientNameFlagMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/RoutingSrvClientNameFlagMsg.cpp
+END
+MMsgRoutingDisconnectClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingDisconnectClient.cpp
+END
+MMsgRoutingSendData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendData.h
+END
+MMsgRoutingCreateDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingCreateDataObject.h
+END
+MMsgRoutingSendChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingSendChat.h
+END
+MMsgRoutingStatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingStatusReply.cpp
+END
+AddresseeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/AddresseeList.cpp
+END
+MMsgRoutingBaseDataObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingBaseDataObject.h
+END
+MMsgRoutingOpenRegistration.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/source/3rdparty/won/msg/Routing/MMsgRoutingOpenRegistration.h
+END

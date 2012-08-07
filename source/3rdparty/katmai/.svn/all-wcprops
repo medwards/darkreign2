@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/3rdparty/katmai
+END
+libkirc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/katmai/libkirc.lib
+END
+libmmtck.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/katmai/libmmtck.lib
+END
+libm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/3rdparty/katmai/libm.lib
+END
+libmmt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/katmai/libmmt.lib
+END
+libirc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/3rdparty/katmai/libirc.lib
+END
+libircmt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/katmai/libircmt.lib
+END
+libm_chk.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/3rdparty/katmai/libm_chk.lib
+END

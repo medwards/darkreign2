@@ -1,0 +1,83 @@
+10
+
+dir
+6
+http://darkreign2.googlecode.com/svn/source/3rdparty/won/Samples/Installers/InstallShield/Sample
+http://darkreign2.googlecode.com/svn
+
+
+
+2011-09-20T21:36:13.999420Z
+4
+grasmanek94
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fa17bb6a-dd93-f1f8-7d1d-ef4f32a5141b
+
+Media
+dir
+
+String_Tables
+dir
+
+Setup_Files
+dir
+
+Text_Substitutions
+dir
+
+Script_Files
+dir
+
+Your_Application_Name.ipr
+file
+
+
+
+
+2012-08-07T12:39:29.238552Z
+e6c453c3626b72d0df2d05213c54c999
+2011-09-20T21:36:13.999420Z
+4
+grasmanek94
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+991
+
+Component_Definitions
+dir
+
+File_Groups
+dir
+

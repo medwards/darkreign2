@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress
+END
+Compress.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/Compress.dsp
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infcodes.h
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/deflate.h
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infutil.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inftrees.c
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infutil.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/uncompr.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inftrees.h
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/minigzip.c
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/trees.h
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infblock.c
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infcodes.c
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/compress.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/infblock.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AdAPI/ImageMagick/Compress/adler32.c
+END

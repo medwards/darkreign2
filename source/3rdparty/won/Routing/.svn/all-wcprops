@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/3rdparty/won/Routing
+END
+CRoutingAPITypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/3rdparty/won/Routing/CRoutingAPITypes.h
+END
+RoutingServerDirEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingServerDirEntity.h
+END
+RoutingAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingAPI.cpp
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/3rdparty/won/Routing/main.c
+END
+RoutingMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingMessages.h
+END
+CRoutingAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/3rdparty/won/Routing/CRoutingAPI.cpp
+END
+RoutingAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingAPI.h
+END
+RoutingAPITypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingAPITypes.cpp
+END
+CRoutingAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Routing/CRoutingAPI.h
+END
+RoutingServerDirEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingServerDirEntity.cpp
+END
+RoutingAPITypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/3rdparty/won/Routing/RoutingAPITypes.h
+END

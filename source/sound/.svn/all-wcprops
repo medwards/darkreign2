@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/4/source/sound
+END
+sound_digital_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/sound/sound_digital_stream.cpp
+END
+sound_digital_effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/sound/sound_digital_effect.cpp
+END
+sound_digital_record.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/sound/sound_digital_record.cpp
+END
+sound_digital_reserved.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/sound/sound_digital_reserved.cpp
+END
+sound_digital.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/sound/sound_digital.cpp
+END
+sound_digital_output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/sound/sound_digital_output.cpp
+END
+sound_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/sound/sound_private.h
+END
+sound_digital_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/sound/sound_digital_cache.cpp
+END
+sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/sound/sound.cpp
+END
+sound.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/sound/sound.dsp
+END
+sound_redbook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/sound/sound_redbook.cpp
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/sound/sound.h
+END

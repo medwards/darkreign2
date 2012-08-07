@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/coregame_ai
+END
+strategic_placement_clusterset.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_clusterset.h
+END
+strategic_transport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_ai/strategic_transport.cpp
+END
+strategic_bombardier_selfdestruct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_selfdestruct.cpp
+END
+ai_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame_ai/ai_debug.h
+END
+strategic_base_orderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer.h
+END
+strategic_script_state_transitions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state_transitions.cpp
+END
+strategic_base_recycler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_recycler.cpp
+END
+strategic_placement_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_manager.cpp
+END
+strategic_script_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state.cpp
+END
+strategic_bombardier_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_manager.h
+END
+strategic_rule_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_rule_manager.h
+END
+strategic_placement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement.cpp
+END
+strategic_bombardier_ruleset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_ruleset.cpp
+END
+strategic_base_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_manager.h
+END
+strategic_placement_cluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_cluster.cpp
+END
+strategic_base_token.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_token.cpp
+END
+strategic_bombardier.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier.h
+END
+strategic_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_object.h
+END
+strategic_rule.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_ai/strategic_rule.h
+END
+tactical_process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/tactical_process.cpp
+END
+strategic_asset_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_manager.h
+END
+tactical.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame_ai/tactical.cpp
+END
+strategic_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_ai/strategic_base.h
+END
+strategic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_ai/strategic.cpp
+END
+strategic_placement_ruleset.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_ruleset.h
+END
+strategic_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/coregame_ai/strategic_util.h
+END
+strategic_asset_request_typebase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_typebase.cpp
+END
+strategic_asset.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset.h
+END
+ai_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/coregame_ai/ai_map.h
+END
+strategic_asset_request.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request.cpp
+END
+strategic_resource_decomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource_decomposition.h
+END
+strategic_asset_request_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_type.cpp
+END
+formation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/coregame_ai/formation.cpp
+END
+coregame_ai.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_ai/coregame_ai.dsp
+END
+ai_debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/coregame_ai/ai_debug.cpp
+END
+strategic_placement_locator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_locator.cpp
+END
+strategic_notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_notification.h
+END
+strategic_base_orderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer.cpp
+END
+strategic_bombardier_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_manager.cpp
+END
+strategic_base_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_manager.cpp
+END
+strategic_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/strategic_config.cpp
+END
+strategic_asset_request_force.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_force.cpp
+END
+strategic_bombardier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier.cpp
+END
+strategic_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/strategic_object.cpp
+END
+strategic_pqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_pqueue.h
+END
+strategic_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_base.cpp
+END
+strategic_location.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/strategic_location.h
+END
+strategic_bombardier_ruleset.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_ruleset.h
+END
+strategic_placement_cluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_cluster.h
+END
+strategic_base_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_state.h
+END
+strategic_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_ai/strategic_private.h
+END
+strategic_resource_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource_manager.cpp
+END
+tactical.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame_ai/tactical.h
+END
+strategic_script_state_settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state_settings.cpp
+END
+strategic_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource.cpp
+END
+strategic_base_orderer_manifest.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer_manifest.h
+END
+ai.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/coregame_ai/ai.h
+END
+strategic_weighting.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_ai/strategic_weighting.h
+END
+strategic_asset_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request.h
+END
+strategic_script_recruiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_recruiter.h
+END
+strategic_script_state_conditions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state_conditions.cpp
+END
+strategic_base_orderer_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer_type.cpp
+END
+strategic_bombardier_offmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_offmap.cpp
+END
+formation.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame_ai/formation.h
+END
+strategic_placement_locator.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_locator.h
+END
+ai_debug_teamlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_ai/ai_debug_teamlist.h
+END
+strategic_script_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_manager.h
+END
+ai_debug_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_ai/ai_debug_info.cpp
+END
+strategic_bombardier_unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_unit.cpp
+END
+strategic_base_orderer_manifests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer_manifests.cpp
+END
+strategic_intel_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_ai/strategic_intel_manager.cpp
+END
+strategic_location.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_ai/strategic_location.cpp
+END
+strategic_script.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_script.h
+END
+strategic_base_state.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_state.cpp
+END
+strategic_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_config.h
+END
+strategic_intel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_ai/strategic_intel.cpp
+END
+strategic_placement_manager_clusterinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_manager_clusterinfo.cpp
+END
+strategic_water_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_ai/strategic_water_manager.h
+END
+strategic_bombardier_longrange.cp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_ai/strategic_bombardier_longrange.cp
+END
+strategic_water_decomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_water_decomposition.h
+END
+ai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/coregame_ai/ai.cpp
+END
+strategic_placement_clusterset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_clusterset.cpp
+END
+strategic_resource_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource_manager.h
+END
+strategic_water.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_ai/strategic_water.h
+END
+strategic_script_recruiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_recruiter.cpp
+END
+strategic_transport_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_transport_manager.h
+END
+strategic_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource.h
+END
+ai_debug_teamlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_ai/ai_debug_teamlist.cpp
+END
+strategic_script_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_manager.cpp
+END
+strategic_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_ai/strategic_transport.h
+END
+strategic_rule_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/source/coregame_ai/strategic_rule_manager.cpp
+END
+strategic_base_orderer_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_orderer_type.h
+END
+strategic_asset_request_forcemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_forcemap.cpp
+END
+strategic_script.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/coregame_ai/strategic_script.cpp
+END
+strategic_base_recycler.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_recycler.h
+END
+strategic_rule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_rule.cpp
+END
+strategic_placement_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_manager.h
+END
+strategic_script_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state.h
+END
+strategic_asset_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_manager.cpp
+END
+ai_debug_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/coregame_ai/ai_debug_info.h
+END
+strategic_intel_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/coregame_ai/strategic_intel_manager.h
+END
+strategic_placement_ruleset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_ruleset.cpp
+END
+strategic_water_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/coregame_ai/strategic_water_manager.cpp
+END
+strategic_placement.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement.h
+END
+strategic_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/strategic_util.cpp
+END
+strategic_water_decomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_ai/strategic_water_decomposition.cpp
+END
+tactical_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/coregame_ai/tactical_private.h
+END
+strategic_base_token.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/coregame_ai/strategic_base_token.h
+END
+strategic_asset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset.cpp
+END
+strategic_intel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/coregame_ai/strategic_intel.h
+END
+ai_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/coregame_ai/ai_map.cpp
+END
+strategic_asset_request_tag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_tag.cpp
+END
+strategic_water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/coregame_ai/strategic_water.cpp
+END
+strategic_resource_decomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/coregame_ai/strategic_resource_decomposition.cpp
+END
+strategic_script_state_actions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/coregame_ai/strategic_script_state_actions.cpp
+END
+strategic_asset_request_squad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/coregame_ai/strategic_asset_request_squad.cpp
+END
+strategic_placement_manager_clusterinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/coregame_ai/strategic_placement_manager_clusterinfo.h
+END
+strategic.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/coregame_ai/strategic.h
+END
+strategic_transport_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/source/coregame_ai/strategic_transport_manager.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/apps/zwagapack
+END
+packtool.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/apps/zwagapack/packtool.h
+END
+zwagapack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/apps/zwagapack/zwagapack.cpp
+END
+zwagapack.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/apps/zwagapack/zwagapack.dsp
+END
+packtool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/apps/zwagapack/packtool.cpp
+END

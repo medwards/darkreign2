@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI
+END
+AdAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/AdAPI.cpp
+END
+AAd_API.doc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/AAd_API.doc
+END
+RAImageDLL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/RAImageDLL.cpp
+END
+AdAPI.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/AdAPI.dsp
+END
+AdAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/AdAPI.h
+END
+RAImageDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/RAImageDLL.h
+END
+AdAPI.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/3rdparty/won/Ad/AAdAPI/AdAPI.dsw
+END

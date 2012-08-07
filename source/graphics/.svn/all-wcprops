@@ -1,0 +1,941 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/4/source/graphics
+END
+TranBucket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/TranBucket.cpp
+END
+vid_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/vid_sprite.cpp
+END
+bitmapprimitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/graphics/bitmapprimitive.h
+END
+mesheffect_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/mesheffect_color.h
+END
+bitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/bitmap.cpp
+END
+mesheffect_planebuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/mesheffect_planebuild.h
+END
+vid_heap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/vid_heap.cpp
+END
+mesheffecttype_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/graphics/mesheffecttype_scale.h
+END
+buckets_light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/graphics/buckets_light.cpp
+END
+mesheffect_plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/graphics/mesheffect_plane.cpp
+END
+camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/camera.cpp
+END
+vid_cmd_terrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/vid_cmd_terrain.cpp
+END
+bitmapclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/bitmapclip.h
+END
+terrain_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/terrain_sprite.cpp
+END
+terrain_sky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/terrain_sky.cpp
+END
+mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/mesh.cpp
+END
+MRMUpdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/MRMUpdate.cpp
+END
+mesheffect_glow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/mesheffect_glow.cpp
+END
+terrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/terrain.cpp
+END
+mesheffect_base_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/mesheffect_base_color.h
+END
+TranBucket.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/TranBucket.h
+END
+mesheffect_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/graphics/mesheffect_color.cpp
+END
+terrain_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/terrain_priv.h
+END
+mesheffecttype_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/mesheffecttype_color.cpp
+END
+mesheffect_textcrossfade.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/graphics/mesheffect_textcrossfade.h
+END
+BucketDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/BucketDesc.cpp
+END
+bucket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/bucket.cpp
+END
+mesheffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/mesheffect.h
+END
+vid_decl.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/vid_decl.h
+END
+mesheffecttype.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/mesheffecttype.h
+END
+vid_cmd_mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/vid_cmd_mesh.cpp
+END
+family.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/family.h
+END
+mesh_render_vertextl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/mesh_render_vertextl.cpp
+END
+anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/graphics/anim.h
+END
+MRMGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/MRMGen.h
+END
+vidclip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/vidclip.cpp
+END
+vidrend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/vidrend.cpp
+END
+MRMGenParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/MRMGenParams.h
+END
+vid_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/vid_math.h
+END
+terrain_render_vertextl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/graphics/terrain_render_vertextl.cpp
+END
+MRMUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/MRMUpdate.h
+END
+mesheffect_textcrossfade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/graphics/mesheffect_textcrossfade.cpp
+END
+vid_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/vid_config.cpp
+END
+Primitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/Primitive.cpp
+END
+mesh_render_vertex_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/mesh_render_vertex_1.cpp
+END
+mesheffecttype_textcrossfade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/source/graphics/mesheffecttype_textcrossfade.cpp
+END
+IMESH.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/graphics/IMESH.h
+END
+mesheffecttype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/mesheffecttype.cpp
+END
+meshoptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/meshoptions.h
+END
+godfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/godfile.h
+END
+mesheffect_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/mesheffect_system.h
+END
+meshread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/meshread.cpp
+END
+vid_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/vid_math.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/resource.h
+END
+bitmapdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/bitmapdec.h
+END
+vidclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/vidclip.h
+END
+meshent_select.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/meshent_select.cpp
+END
+vid_enumdx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/vid_enumdx.cpp
+END
+lightvertscamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/graphics/lightvertscamera.cpp
+END
+vid_cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/vid_cmd.cpp
+END
+mesheffect_planebuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/graphics/mesheffect_planebuild.cpp
+END
+IMESHUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/IMESHUtil.h
+END
+meshmrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/meshmrm.h
+END
+terrain_render_isometric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/source/graphics/terrain_render_isometric.cpp
+END
+vid_cmd_dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/vid_cmd_dialog.cpp
+END
+vidclip_screen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/vidclip_screen.cpp
+END
+viderror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/viderror.cpp
+END
+lex.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/graphics/lex.h
+END
+material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/material.cpp
+END
+meshent_render_vertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/graphics/meshent_render_vertex.cpp
+END
+vidclip_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/vidclip_priv.h
+END
+vidgraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/vidgraphics.cpp
+END
+IMESHUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/IMESHUtil.cpp
+END
+effects_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/effects_utils.h
+END
+mesheffect_glow.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/graphics/mesheffect_glow.h
+END
+bitmap_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/bitmap_manager.cpp
+END
+mesheffect_liquidmetal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/mesheffect_liquidmetal.h
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/graphics/light.h
+END
+lightvertsmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/lightvertsmodel.cpp
+END
+Vertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/Vertex.cpp
+END
+mesheffecttype_color.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/graphics/mesheffecttype_color.h
+END
+bucket_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/bucket_inline.h
+END
+lightrend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/lightrend.cpp
+END
+meshconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/meshconfig.cpp
+END
+bucket.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/bucket.h
+END
+anim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/anim.cpp
+END
+mesheffect_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/mesheffect_scale.h
+END
+vid_public.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/vid_public.h
+END
+mesheffect_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/graphics/mesheffect_resource.h
+END
+mesh_render_vertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/source/graphics/mesh_render_vertex.cpp
+END
+meshman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/meshman.cpp
+END
+meshload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/meshload.cpp
+END
+mesheffect_fade.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/graphics/mesheffect_fade.h
+END
+vidoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/vidoptions.cpp
+END
+effects_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/source/graphics/effects_utils.cpp
+END
+terrain_render_quick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/terrain_render_quick.cpp
+END
+terrain_render_vertex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/graphics/terrain_render_vertex.cpp
+END
+vidclip_line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/vidclip_line.cpp
+END
+vid_settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/vid_settings.cpp
+END
+mesheffect_liquidmetal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/graphics/mesheffect_liquidmetal.cpp
+END
+material.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/material.h
+END
+terrain_render_vertexc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/source/graphics/terrain_render_vertexc.cpp
+END
+bitmapprimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/bitmapprimitive.cpp
+END
+light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/light.cpp
+END
+meshoptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/meshoptions.cpp
+END
+meshent.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/meshent.h
+END
+buckets_lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/buckets_lock.cpp
+END
+mesheffecttype_textcrossfade.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/source/graphics/mesheffecttype_textcrossfade.h
+END
+terrain_render_rect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/terrain_render_rect.cpp
+END
+vid_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/vid_private.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/bitmap.h
+END
+mesheffecttype_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/graphics/mesheffecttype_resource.cpp
+END
+vid_cmd_var.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/vid_cmd_var.h
+END
+meshconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/meshconfig.h
+END
+gamemath.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/gamemath.h
+END
+mesheffecttype_fade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/mesheffecttype_fade.cpp
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/statistics.cpp
+END
+camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/camera.h
+END
+mesheffect_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/source/graphics/mesheffect_plane.h
+END
+mesheffect_base_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/graphics/mesheffect_base_color.cpp
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/graphics/mesh.h
+END
+terrain_lod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/terrain_lod.cpp
+END
+meshent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/meshent.cpp
+END
+graphics.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/graphics.dsp
+END
+mesheffecttype_glow.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/graphics/mesheffecttype_glow.h
+END
+meshmrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/meshmrm.cpp
+END
+mesheffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/source/graphics/mesheffect.cpp
+END
+terrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/terrain.h
+END
+vid_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/source/graphics/vid_cmd.h
+END
+light_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/light_priv.h
+END
+heightfield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/heightfield.cpp
+END
+BucketDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/BucketDesc.h
+END
+family.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/family.cpp
+END
+vid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/graphics/vid.cpp
+END
+gamemath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/gamemath.cpp
+END
+mesheffecttype_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/source/graphics/mesheffecttype_resource.h
+END
+meshview.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/meshview.h
+END
+meshent_render_vertextl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/source/graphics/meshent_render_vertextl.cpp
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/statistics.h
+END
+mesheffecttype_fade.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/graphics/mesheffecttype_fade.h
+END
+mesheffecttype_glow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/mesheffecttype_glow.cpp
+END
+meshwrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/meshwrite.cpp
+END
+godfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/godfile.cpp
+END
+mesheffect_system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/source/graphics/mesheffect_system.cpp
+END
+Primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/source/graphics/Primitive.h
+END
+vidmirror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/source/graphics/vidmirror.cpp
+END
+mesheffect_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/source/graphics/mesheffect_resource.cpp
+END
+mesheffect_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/source/graphics/mesheffect_scale.cpp
+END
+Vertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/graphics/Vertex.h
+END
+mesheffecttype_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/source/graphics/mesheffecttype_scale.cpp
+END
+vid_heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/source/graphics/vid_heap.h
+END
+camera_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/source/graphics/camera_test.cpp
+END
+meshview.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/source/graphics/meshview.cpp
+END
+vid.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/graphics/vid.h
+END
+vidclip_xtra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/graphics/vidclip_xtra.cpp
+END
+mesheffect_fade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/source/graphics/mesheffect_fade.cpp
+END

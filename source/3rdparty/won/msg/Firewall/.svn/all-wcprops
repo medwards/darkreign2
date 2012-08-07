@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall
+END
+FirewallMsgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/FirewallMsgs.cpp
+END
+SMsgFirewallStatusReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/SMsgFirewallStatusReply.cpp
+END
+SMsgFirewallStatusReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/SMsgFirewallStatusReply.h
+END
+SMsgFirewallDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/SMsgFirewallDetect.cpp
+END
+SMsgTypesFirewall.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/SMsgTypesFirewall.h
+END
+SMsgFirewallDetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/source/3rdparty/won/msg/Firewall/SMsgFirewallDetect.h
+END

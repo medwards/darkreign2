@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/4/source/main
+END
+setup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/source/main/setup.cpp
+END
+runcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/main/runcodes.cpp
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/source/main/setup.h
+END
+runcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/source/main/runcodes.h
+END
+main.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/source/main/main.dsp
+END
+maininit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/source/main/maininit.cpp
+END
+maincmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/source/main/maincmd.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/source/main/main.h
+END
